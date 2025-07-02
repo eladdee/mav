@@ -149,22 +149,7 @@ function geridon(){
       <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
       <div class="maintenance-tooltip">This method is currently under the maintenance</div>
    </div>
-   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
-      <div class="cashier-paymeth-list-item-wrapper">
-         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
-         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
-            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.AHavale/Deposit/1990-Generic.Aninda.AHavale-3-1723707099646_tr.jpg" alt="Havale"><!---->
-            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
-            <!---->
-         </mm-paymeth-logo>
-         <div class="cashier-paymeth-list-name"> Havale </div>
-         <div class="cashier-paymeth-list-processing-time"> Anında </div>
-         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 100,000.00 </div>
-         <!----><!---->
-      </div>
-      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
-      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
-   </div>
+   
    <div class="cashier-paymeth-list-item promoted-method" title="Havale">
       <div class="cashier-paymeth-list-item-wrapper">
          <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->

@@ -1,7 +1,7 @@
 <?php
 
 require_once 'mobile.class.php';
-$title = "Jojobet 1039 - jojobet1039.com - Jojobet 1039 com giriş - jojobet1039 com";
+$title = "Mavibet 834 - mavibet834.com - Mavibet 834 com giriş - mavibet934 com";
 ob_start();
 session_start();
 error_reporting(0);
@@ -12,8 +12,8 @@ const DB_HOST = "localhost";
 const DB_LOGIN = "admin_pae";
 const DB_PASS = "4mc_z61S4";
 const DB_NAME = "admin_pae";
-$guncel = 'jojobet1039';
-$guncel2 = 'jojobet1040';
+$guncel = 'mavibet834';
+$guncel2 = 'mavibet835';
 
 // Connecting Database
 $db = new Mysqli(DB_HOST, DB_LOGIN, DB_PASS, DB_NAME);

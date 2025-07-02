@@ -155,218 +155,299 @@ $(document).ready(function(){
                         </div>
                         <mm-cashier-paymeth-list _ngcontent-ng-c1027566998 ngdefaultcontrol class="ng-untouched ng-pristine ng-valid">
                            <section class=cashier-paymeth-list>
-                              <div class=cashier-paymeth-list-group data-index=0>
-                                 <div class=cashier-paymeth-list-item title=Tether>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tether class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/53.webp alt=Tether></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Tether </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 10.00 - 50,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Bitcoin>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Bitcoin class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/54.png alt=Bitcoin></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Bitcoin </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 100.00 - 10,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Tron>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tron class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/55.png alt=Tron></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Tron </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 10.00 - 20,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/56.png alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/57.png alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 1,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/58.webp alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 100.00 - 1,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/59.jpg alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/60.png alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 150.00 - 1,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/61.webp alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/62.png alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=PayCo>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayCo class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/63.png alt=PayCo></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> PayCo </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 10.00 - 1,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=PayPay>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayPay class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/64.png alt=PayPay></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> PayPay </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 25.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title="₺ Papara">
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="₺ Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/65.png alt="₺ Papara"></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> ₺ Papara </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title="Anında Papara">
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/66.png alt="Anında Papara"></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Anında Papara </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title="Premium Papara">
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Premium Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/67.png alt="Premium Papara"></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Premium Papara </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=ParolaPara>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/68.png alt=ParolaPara></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> ParolaPara </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=ParolaPara>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/69.png alt=ParolaPara></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> ParolaPara </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title="Anında Popy">
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Popy" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/70.jpg alt="Anında Popy"></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Anında Popy </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 25.00 - 125,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title="Kredi Kartı">
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Kredi Kartı" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/71.jpg alt="Kredi Kartı"></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Kredi Kartı </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 300.00 - 2,500.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Doge>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Doge class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/72.png alt=Doge></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Doge </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 10.00 - 20,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                                 <div class=cashier-paymeth-list-item title=Ethereum>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Ethereum class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/73.png alt=Ethereum></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Ethereum </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 100.00 - 20,000,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
-                              </div>
+                             <div class="cashier-paymeth-list-group" data-index="0">
+   <!---->
+   <div class="cashier-paymeth-list-item promoted-method" title="Tether">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Tether" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="kripto" src="/assets/content/static/mmprod/_payicons/1990/Generic.Sdk.BinancePay.Kripto/Deposit/1990-Generic.Sdk.BinancePay.Kripto-3-1743759581353_tr.webp" alt="Tether"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Tether </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 10.00 - 50,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.BankTransfer/Deposit/1990-Generic.Aninda.BankTransfer-3-1747322605894_tr.webp" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 500.00 - 100,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.HemenOde.Havale/Deposit/1990-Generic.HemenOde.Havale-3-1699957522058_tr.png" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 1,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.FastPara.BankTransfer/Deposit/1990-Generic.FastPara.BankTransfer-3-1690893743747_tr.png" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 500.00 - 1,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Paratim">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Paratim" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="paratim" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.Mefete/Deposit/1990-Generic.Aninda.Mefete-3-1742626754927_tr.png" alt="Paratim"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Paratim </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 25.00 - 250,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.ScashMoney.Bank/Deposit/1990-Generic.ScashMoney.Bank-3-1745956890824_tr.webp" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 500,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.EnHizli.Havale/Deposit/1990-Generic.EnHizli.Havale-3-1749053175003_tr.png" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 100.00 - 500,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item promoted-method" title="Havale">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <span class="promo-label-wrapper"><span class="promotion-label">Favori</span></span><!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Havale" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="havale" src="/assets/content/static/mmprod/_payicons/1990/Generic.FlexPep.FastHavale/Deposit/1990-Generic.FlexPep.FastHavale-3-1689940757613_tr.webp" alt="Havale"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Havale </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 150.00 - 500,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Papel">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Papel" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="papel" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.Papel/Deposit/1990-Generic.Aninda.Papel-3-1750768636619_tr.png" alt="Papel"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Papel </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 250,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Anında Popy">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Anında Popy" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="popy" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.Popy/Deposit/1990-Generic.Aninda.Popy-3-1740222302323_tr.jpg" alt="Anında Popy"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Anında Popy </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 150.00 - 125,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Bitcoin">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Bitcoin" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="kripto" src="/assets/content/static/mmprod/_payicons/1990/Generic.Sdk.BinancePay.BTC/Deposit/1990-Generic.Sdk.BinancePay.BTC-3-1743759646521_tr.webp" alt="Bitcoin"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Bitcoin </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 100.00 - 10,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Tron">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Tron" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="kripto" src="/assets/content/static/mmprod/_payicons/1990/Generic.Sdk.BinancePay.TRX/Deposit/1990-Generic.Sdk.BinancePay.TRX-3-1743759708564_tr.webp" alt="Tron"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Tron </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 10.00 - 20,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="ParolaPara">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="ParolaPara" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="parolapara" src="/assets/content/static/mmprod/_payicons/1990/Generic.HemenOde.ParolaPara/Deposit/1990-Generic.HemenOde.ParolaPara-3-1740239183568_tr.png" alt="ParolaPara"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> ParolaPara </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 250,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="ParolaPara">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="ParolaPara" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="parolapara" src="/assets/content/static/mmprod/_payicons/1990/Generic.Aninda.Parola/Deposit/1990-Generic.Aninda.Parola-3-1740239200747_tr.png" alt="ParolaPara"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> ParolaPara </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 250.00 - 250,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="₺ Papara">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="₺ Papara" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="papara" src="/assets/content/static/mmprod/_payicons/1990/Generic.HemenOde.VipPapara/Deposit/1990-Generic.HemenOde.VipPapara-3-1707851275015_tr.png" alt="₺ Papara"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> ₺ Papara </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 100.00 - 100,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Premium Papara">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Premium Papara" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="papara" src="/assets/content/static/mmprod/_payicons/1990/Generic.PremiumPapara/Deposit/1990-Generic.PremiumPapara-3-1706620604345_tr.png" alt="Premium Papara"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Premium Papara </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 500.00 - 200,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Doge">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Doge" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="kripto" src="/assets/content/static/mmprod/_payicons/1990/Generic.Sdk.BinancePay.DOGE/Deposit/1990-Generic.Sdk.BinancePay.DOGE-3-1743759778734_tr.webp" alt="Doge"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Doge </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 10.00 - 20,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <div class="cashier-paymeth-list-item" title="Ethereum">
+      <div class="cashier-paymeth-list-item-wrapper">
+         <!---->
+         <mm-paymeth-logo _nghost-ng-c2581619759="" title="Ethereum" class="paymeth-logo">
+            <!----><img _ngcontent-ng-c2581619759="" id="kripto" src="/assets/content/static/mmprod/_payicons/1990/Generic.Sdk.BinancePay.ETH/Deposit/1990-Generic.Sdk.BinancePay.ETH-3-1743759843452_tr.webp" alt="Ethereum"><!---->
+            <div _ngcontent-ng-c2581619759="" class="promotion-logo"><span _ngcontent-ng-c2581619759="" class="promotion-label">Favori</span></div>
+            <!---->
+         </mm-paymeth-logo>
+         <div class="cashier-paymeth-list-name"> Ethereum </div>
+         <div class="cashier-paymeth-list-processing-time"> Anında </div>
+         <div class="cashier-paymeth-list-limits"> TRY 100.00 - 20,000,000.00 </div>
+         <!----><!---->
+      </div>
+      <div class="custom-tooltip">You must make at least one deposit using this payment method before you can withdraw with it</div>
+      <div class="maintenance-tooltip">This method is currently under the maintenance</div>
+   </div>
+   <!---->
+</div>
                            </section>
                         </mm-cashier-paymeth-list>
                      </div>
