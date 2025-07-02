@@ -8,7 +8,7 @@
       <style data-styles="">casino-play-random-game{visibility:hidden}.hydrated{visibility:inherit}</style>
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       
-      <meta name="Application-Name" content="jojoBET">
+      <meta name="Application-Name" content="mavibet">
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
       <link rel="preload" href="/static/css/bundle-939aff498c5cb56a60be.css" as="style">
@@ -34,7 +34,7 @@
      
       <script>
          window.customBuildVars = {
-           appName: 'jojobet-prod',
+           appName: 'mavibet-prod',
            appVersion: '1.0.798',
            disableBrowserConsole: false,
          };
@@ -53,9 +53,9 @@
 
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
-      <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">
+      <link rel="stylesheet" type="text/css" href="/static/css/bundle-2c2a971e50e016746032.css">
       
-      <meta name="author" content="jojoBET">
+      <meta name="author" content="mavibet">
       <meta name="apple-mobile-web-app-title" content="<?=$title?>">
       <meta name="HandheldFriendly" content="true">
       <meta name="Robots" content="index, follow">
@@ -65,18 +65,19 @@
       <meta name="apple-mobile-web-app-status-bar-style" content="black">
       <link rel="search" type="application/opensearchdescription+xml" href="/static/xml/opensearch.xml" title="Search the Operator">
       <style type="text/css">body,html{font-size:10px}#PageSpinner{position:fixed;margin:0;padding:0;display:flex;justify-content:center;align-items:center;width:100%;height:100vh;background:var(--PageSpinner-background);z-index:9999999;visibility:visible;opacity:1}#PageSpinner.Hide{visibility:hidden;opacity:0;transition:visibility .3s linear,opacity .3s linear}#PageSpinner .MainIcon{display:block;animation:slideMainIcon 2s infinite;width:150px}@keyframes slideMainIcon{from{transform:translateY(-15px)}50%{transform:translateY(5px)}to{transform:translateY(-15px)}}#PageSpinner .LoadingScreen{position:relative;width:250px;height:250px;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));animation:animateLoadingScreen 1.2s linear infinite}@keyframes animateLoadingScreen{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}#PageSpinner .LoadingScreen span{position:absolute;width:100%;height:100%;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))}#PageSpinner .LoadingScreen span:nth-child(1){filter:blur(5px)}#PageSpinner .LoadingScreen span:nth-child(2){filter:blur(10px)}#PageSpinner .LoadingScreen span:nth-child(3){filter:blur(25px)}#PageSpinner .LoadingScreen span:nth-child(4){filter:blur(100px)}#PageSpinner .LoadingScreen:after{content:"";position:absolute;top:10px;left:10px;right:10px;bottom:10px;background:var(--Circle-background);border-radius:50%;opacity:.9}#PageSpinner .Logo{z-index:1;position:absolute}@keyframes animateCircleSpin{from{stroke-dashoffset:2512}to{stroke-dashoffset:0}}#PageSpinner .Circle{position:absolute;top:50%;left:50%;overflow:visible!important;transform:translate3d(-50%,-50%,0) rotate(-90deg);transform-origin:center}#PageSpinner .Circle circle{fill:#fff0;stroke-width:4;stroke-dasharray:1256}#PageSpinner .Circle circle:first-of-type{stroke:rgb(255 255 255 / .1)}#PageSpinner .Circle circle:nth-of-type(2){stroke:var(--Circle-color);animation:animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s}.MRIExpand{width:100%;max-height:calc(100vh - env(safe-area-inset-top) - 3rem);overflow:auto;position:fixed;top:0;padding-top:calc(env(safe-area-inset-top) + 3rem);background-color:#fff;z-index:9999}.MRIExpand.Hidden{display:none}.MRIExpand table{width:100%}.MRIExpand table tr:nth-child(odd){background-color:#dedede}.MRIExpand table tr:nth-child(even){background-color:#ccc}.MRIExpand table td,.MRIExpand table th{padding:.1rem .5rem;border-collapse:collapse;border:1px solid #b3b3b3}.MRIExpand .MRIClose{position:absolute;right:0;background:0 0;font-size:18px;border-radius:5rem;width:3rem;height:3rem;line-height:14px;top:calc(env(safe-area-inset-top) + 0px);padding:0}.RootContent{position:relative;min-height:100vh}.AppVersion{position:absolute;bottom:.5rem;left:50%;transform:translateX(-50%);font-size:10px;color:#fff;text-shadow:1px 1px 1px #000;z-index:5}.LoadingScreen .AppVersion{position:fixed}.BrowserUpgrade{display:block;padding:1rem;background:#fff;color:#000;border:1px solid #f33}</style>
-      <style type="text/css">:root{
-         --PageSpinner-background: #0e1f04;
-         --Circle-background: #0e1f04;
-         --LoadingScreen-color-from: #F5C51F;
-         --LoadingScreen-color-to: #F49920;
-         --Circle-color: rgba(244, 129, 32, 1);
-         }
+      <style type="text/css">:
+       :root {
+                --PageSpinner-background: #1c1c1c;
+                --Circle-background: #1c1c1c;
+                --LoadingScreen-color-from: #ff0054;
+                --LoadingScreen-color-to: #FFF;
+                --Circle-color: rgba(255, 0, 84, 1);
+            }
       </style>
       
       <title><?=$title?></title>
-      <meta name="description" content="<?=$title?>Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
-      <meta name="keywords" content="jojobet, <?=$guncel?>, Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
+      <meta name="description" content="<?=$title?>mavibet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
+      <meta name="keywords" content="mavibet, <?=$guncel?>, Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
       <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
       <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
@@ -99,122 +100,21 @@
       </div>
       <div id="PageSpinner" class="">
          <div class="Logo">
-            <svg class="Circle" width="220" height="220">
-               <circle cx="110" cy="110" r="110"></circle>
-               <circle cx="110" cy="110" r="110"></circle>
-               <circle cx="110" cy="110" r="110"></circle>
-            </svg>
-            <span class="SvgIcon MainIcon">
-               <svg width="150" class="LogoFill" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 388.35 79.17" style="enable-background:new 0 0 388.35 79.17" xml:space="preserve">
-                  <style>.Rs3vg{clip-path:url(#SVGID_8_);fill:#f6eb1f}</style>
-                  <defs>
-                     <path id="SVGID_1_" d="M46 8.31c-.08.08-.15.16-.22.25-1.85 2.66-4.35 4.49-7.34 5.67-2.8 1.1-5.72 1.56-8.71 1.63-.33.01-.66 0-.99 0-.07.3-.14.51-.18.73-.52 3.37-1.03 6.75-1.54 10.12-.64 4.17-1.27 8.34-1.91 12.51-.64 4.2-1.28 8.4-1.93 12.59-.43 2.8-.86 5.6-1.34 8.39-.26 1.51-.72 2.97-1.51 4.3-.89 1.5-2.2 2.42-3.94 2.63-1.37.16-2.71.1-3.84-.92-1.83 1.87-3.74 3.55-5.82 5.05-2.1 1.5-4.33 2.77-6.73 3.92 1.26 1.14 2.59 1.92 4.05 2.49 1.56.6 3.19.95 4.84 1.17l2.29.33h6.67c.24-.06.47-.13.71-.16 2.78-.32 5.46-1.01 7.96-2.29 4.96-2.54 8.58-6.26 10.28-11.67.18-.58.37-1.16.55-1.75 1.26-4.27 1.83-8.68 2.49-13.07.7-4.58 1.38-9.17 2.07-13.75l2.1-13.83c.7-4.61 1.39-9.22 2.08-13.83.03-.17.03-.35.05-.53-.09.01-.13 0-.14.02"></path>
-                  </defs>
-                  <clipPath id="SVGID_2_">
-                     <use xlink:href="#SVGID_1_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4471.954 4742.568) scale(119.7106)">
-                     <stop offset="0" style="stop-color:#fff"></stop>
-                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
-                     <stop offset=".393" style="stop-color:#dadadb"></stop>
-                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
-                     <stop offset="1" style="stop-color:#808184"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_2_);fill:url(#SVGID_3_)" d="m.18 5.39-4.61 73.5 50.39 3.16 4.61-73.49z"></path>
-                  <defs>
-                     <path id="SVGID_4_" d="M143.6 8.51c-1.87 2.72-4.43 4.57-7.48 5.75-2.78 1.08-5.67 1.53-8.64 1.59-.32.01-.65.03-.97.04-.06.2-.11.33-.13.47-.51 3.37-1.03 6.75-1.54 10.12-.63 4.14-1.27 8.28-1.9 12.43-.64 4.2-1.28 8.39-1.93 12.59-.44 2.82-.86 5.65-1.34 8.47-.28 1.62-.78 3.17-1.61 4.61-1.6 2.8-5.67 3.32-7.75 1.63-1.8 1.84-3.74 3.54-5.83 5.05-2.08 1.5-4.32 2.74-6.68 3.92 1.17 1.05 2.36 1.78 3.68 2.33 1.65.69 3.38 1.06 5.15 1.31l2.38.33h6.5c.24-.05.48-.13.72-.15 2.05-.22 4.07-.63 5.98-1.39 6.1-2.43 10.5-6.51 12.49-12.94 1.05-3.38 1.76-6.82 2.29-10.31.7-4.58 1.38-9.17 2.07-13.75l2.1-13.83c.76-5.02 1.52-10.04 2.27-15.07l.51-3.48c-.17.08-.27.17-.34.28"></path>
-                  </defs>
-                  <clipPath id="SVGID_5_">
-                     <use xlink:href="#SVGID_4_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4517.797 4791.378) scale(119.7106)">
-                     <stop offset="0" style="stop-color:#fff"></stop>
-                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
-                     <stop offset=".393" style="stop-color:#dadadb"></stop>
-                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
-                     <stop offset="1" style="stop-color:#808184"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_5_);fill:url(#SVGID_6_)" d="m97.99 5.36-4.62 73.53 50.41 3.16 4.61-73.53z"></path>
-                  <defs>
-                     <path id="SVGID_7_" d="M0 0h388.35v79.17H0z"></path>
-                  </defs>
-                  <clipPath id="SVGID_8_">
-                     <use xlink:href="#SVGID_7_" style="overflow:visible"></use>
-                  </clipPath>
-                  <path class="Rs3vg" d="M127.71 7.94c.39 0 .69.02.98 0 1.46-.14 2.93-.22 4.37-.46 3.04-.5 5.88-1.57 8.39-3.4 1.51-1.11 2.82-2.4 3.73-4.07h-16.33c-.37 2.61-.75 5.23-1.14 7.93M30.98.74c-.3 2.06-.62 4.11-.92 6.16-.05.32-.06.64-.09 1 .22.02.36.05.49.05 2.7-.08 5.36-.39 7.94-1.24 2.92-.96 5.53-2.42 7.59-4.75.52-.6.91-1.31 1.36-1.97H31.02c-.01.26 0 .51-.04.75"></path>
-                  <defs>
-                     <path id="SVGID_9_" d="M176.35 55.47c-3.1-.42-5.18-2.24-6.5-5.01-.77-1.61-1.06-3.34-1.11-5.09-.12-4.57.54-9.03 2.3-13.27 1.08-2.6 2.74-4.75 5.08-6.34 2.24-1.52 4.71-2.1 7.37-1.71 3.07.45 5.07 2.35 6.34 5.08.6 1.3.88 2.69.99 4.11.06.72.01 1.44.01 2.16-.03 3.91-.64 7.74-2 11.42-.92 2.49-2.3 4.68-4.39 6.36-1.97 1.59-4.17 2.4-6.58 2.4-.49-.01-1-.04-1.51-.11m.33-46.99c-10.8 1.68-18.9 7.45-24.57 16.7-2.57 4.2-4.01 8.82-4.74 13.67-.6 3.98-.73 7.98.17 11.93 2 8.84 7.11 15.09 15.63 18.38 4.17 1.61 8.56 2.08 13.28 2.09 2.11-.03 4.49-.16 6.85-.56 11.15-1.86 19.39-7.84 24.89-17.64 2.21-3.94 3.47-8.22 4.13-12.67.61-4.06.74-8.14-.14-12.17-1.98-9.07-7.19-15.37-16.08-18.36-4-1.35-8.09-1.94-12.21-1.94-2.39-.01-4.8.19-7.21.57"></path>
-                  </defs>
-                  <clipPath id="SVGID_10_">
-                     <use xlink:href="#SVGID_9_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4545.313 4820.675) scale(119.7106)">
-                     <stop offset="0" style="stop-color:#fff"></stop>
-                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
-                     <stop offset=".393" style="stop-color:#dadadb"></stop>
-                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
-                     <stop offset="1" style="stop-color:#808184"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_10_);fill:url(#SVGID_11_)" d="M146.9 3.75 142.68 71l70.12 4.4 4.22-67.25z"></path>
-                  <defs>
-                     <path id="SVGID_12_" d="M78.57 55.46c-3.17-.44-5.27-2.33-6.55-5.18-.89-1.99-1.07-4.12-1.04-7.19.08-2.97.65-6.77 2.06-10.41 1.1-2.84 2.8-5.23 5.35-6.95 2.22-1.49 4.67-2.07 7.29-1.7 3.04.43 5.05 2.27 6.34 4.96.76 1.58 1.06 3.28 1.11 5.01.12 4.77-.63 9.41-2.47 13.83-.93 2.22-2.33 4.09-4.26 5.56-1.9 1.45-4.01 2.18-6.28 2.18-.51 0-1.03-.04-1.55-.11M80.11 8.3c-4.63.56-9.02 1.89-13.04 4.27-8.48 5.02-14.02 12.32-16.54 21.85-1.39 5.24-1.93 10.56-.84 15.91 1.86 9.04 7.01 15.44 15.68 18.82 4.17 1.62 8.55 2.09 13 2.17 1.69-.11 3.38-.19 5.07-.33.86-.07 1.71-.2 2.56-.35 11.57-2.13 19.9-8.58 25.17-19.02 1.94-3.85 2.99-7.99 3.53-12.26.49-3.89.49-7.76-.37-11.59-1.22-5.42-3.8-10.05-8.1-13.63-3.16-2.63-6.83-4.22-10.81-5.12-3.17-.72-6.36-1.06-9.57-1.06-1.9-.01-3.82.11-5.74.34"></path>
-                  </defs>
-                  <clipPath id="SVGID_13_">
-                     <use xlink:href="#SVGID_12_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.591 4499.407 4771.797) scale(119.7106)">
-                     <stop offset="0" style="stop-color:#fff"></stop>
-                     <stop offset=".145" style="stop-color:#f5f5f5"></stop>
-                     <stop offset=".393" style="stop-color:#dadadb"></stop>
-                     <stop offset=".71" style="stop-color:#aeafb0"></stop>
-                     <stop offset="1" style="stop-color:#808184"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_13_);fill:url(#SVGID_14_)" d="m48.86 3.78-4.22 67.28 70.3 4.42 4.22-67.28z"></path>
-                  <defs>
-                     <path id="SVGID_15_" d="M386.44 7.96c-13.25.01-26.5.02-39.74.02H345c-1.38 0-2.75 0-4.13.01-.87.01-1.07.18-1.27 1.01-.04.16-.06.33-.09.49-.49 3.1-.98 6.19-1.46 9.29a582.4 582.4 0 0 0-.62 4.11c-.09.64.04.81.66.88.3.03.61.02.92.02h13.58c.32 0 .63.02 1.01.04a17546.392 17546.392 0 0 0-3.78 25.06c-1.05 6.97-2.11 13.94-3.17 20.91-.21 1.39-.17 1.44 1.2 1.44 4.47.01 8.94.01 13.42.01 1.41 0 1.49-.05 1.7-1.44.64-4.17 1.26-8.34 1.89-12.51l2.07-13.66c.81-5.32 1.62-10.65 2.42-15.97.19-1.25.39-2.51.59-3.83h.96l13.66-.03c.25 0 .5.01.75-.01.6-.04.77-.18.94-.76.06-.19.09-.38.12-.57l1.65-10.78c.1-.68.22-1.35.33-2.03V8c-.63-.01-1.25-.04-1.88-.04h-.03z"></path>
-                  </defs>
-                  <clipPath id="SVGID_16_">
-                     <use xlink:href="#SVGID_15_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3677.83 3878.622) scale(93.6424)">
-                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
-                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
-                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
-                     <stop offset=".823" style="stop-color:#f49920"></stop>
-                     <stop offset="1" style="stop-color:#f48120"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_16_);fill:url(#SVGID_17_)" d="m337.51 4.97-3.89 66.07 54.55 3.21 3.89-66.07z"></path>
-                  <defs>
-                     <path id="SVGID_18_" d="M211.27 7.96c-.2 0-.41.04-.75.07 4.96 4.31 7.97 9.63 9.61 15.8h30.9c.3 0 .61-.01.91.01 2.21.11 3.66 2.02 3.14 4.16-.43 1.76-1.57 2.92-3.27 3.47-.57.19-1.2.21-1.8.22-7.05.01-14.1.01-21.15.01h-6.68c-.32 0-.64.02-1.01.03.15 5.39-.6 10.57-2.07 15.79h31.03c.33 0 .67-.01 1 .01 2.16.15 3.55 1.92 3.17 4.03-.35 1.91-2.1 3.57-4.05 3.79-.44.05-.89.05-1.33.05h-32.08c-.52 0-.9.04-1.2.62-3.07 5.85-7.28 10.73-12.57 14.68-.14.11-.26.24-.51.47h1.07c11.66 0 23.33-.05 34.99.02 4.94.03 9.81-.46 14.67-1.2 2.63-.4 5.15-1.16 7.4-2.64 6.67-4.39 10.18-10.48 9.79-18.56-.18-3.61-1.82-6.53-4.86-8.6-1.46-.99-3.06-1.68-4.74-2.2-.44-.14-.88-.27-1.47-.45.37-.16.58-.26.8-.35.84-.35 1.71-.67 2.53-1.07 4.07-2 6.94-5.12 8.5-9.39 1.09-2.99 1.43-6.07.52-9.16-1.25-4.23-4.12-6.95-8.23-8.4-2.6-.92-5.29-1.22-8.03-1.22h-22.12c-7.36.01-14.73.01-22.11.01"></path>
-                  </defs>
-                  <clipPath id="SVGID_19_">
-                     <use xlink:href="#SVGID_18_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3618.9 3816.123) scale(93.6424)">
-                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
-                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
-                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
-                     <stop offset=".823" style="stop-color:#f49920"></stop>
-                     <stop offset="1" style="stop-color:#f48120"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_19_);fill:url(#SVGID_20_)" d="M202.82 3.85 198.87 71l73.57 4.33 3.95-67.16z"></path>
-                  <defs>
-                     <path id="SVGID_21_" d="M282.17 9.1c-.44 3.11-.86 6.21-1.31 9.32-.64 4.39-1.29 8.79-1.95 13.18-.68 4.47-1.38 8.94-2.07 13.41-.69 4.47-1.39 8.94-2.09 13.41-.59 3.81-1.16 7.63-1.77 11.44-.2 1.23-.16 1.41 1.25 1.41 11.75-.01 23.5-.01 35.25-.01 3.47 0 6.94.01 10.42-.01 1.69-.01 1.87-.18 2.11-1.86.55-3.71 1.09-7.41 1.63-11.12.08-.58.18-1.15.2-1.74.02-.63-.31-.98-.94-1.06-.3-.04-.61-.02-.91-.02H291.47c.4-2.69.79-5.28 1.18-7.94h15.23c1.09 0 1.24-.13 1.42-1.18l.03-.25c.63-4.2 1.25-8.4 1.88-12.6.26-1.71.19-1.79-1.56-1.79-4.58.01-9.17 0-13.75.01h-.88c.43-2.7.84-5.29 1.27-7.98h.78l8.67.03 22.16.06c1 0 1.06-.06 1.23-1.05.01-.06.01-.11.02-.17.65-4.39 1.31-8.78 1.97-13.17.2-1.33.14-1.43-1.22-1.43-4.47 0-8.94 0-13.41-.01-11-.01-22-.01-33-.02-1.09 0-1.16.07-1.32 1.14"></path>
-                  </defs>
-                  <clipPath id="SVGID_22_">
-                     <use xlink:href="#SVGID_21_" style="overflow:visible"></use>
-                  </clipPath>
-                  <linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="0" y1="79.166" x2="1" y2="79.166" gradientTransform="rotate(93.366 3649.225 3848.285) scale(93.6424)">
-                     <stop offset="0" style="stop-color:#f6eb1f"></stop>
-                     <stop offset=".167" style="stop-color:#f6e11f"></stop>
-                     <stop offset=".454" style="stop-color:#f5c51f"></stop>
-                     <stop offset=".823" style="stop-color:#f49920"></stop>
-                     <stop offset="1" style="stop-color:#f48120"></stop>
-                  </linearGradient>
-                  <path style="clip-path:url(#SVGID_22_);fill:url(#SVGID_23_)" d="m272.99 4.53-3.91 66.51 62.05 3.65 3.91-66.51z"></path>
-               </svg>
-            </span>
-         </div>
+   <svg class="Circle" width="220" height="220">
+      <circle cx="110" cy="110" r="110"></circle>
+      <circle cx="110" cy="110" r="110"></circle>
+      <circle cx="110" cy="110" r="110"></circle>
+   </svg>
+   <span class="SvgIcon MainIcon">
+      <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 1000.3 176.8">
+         <defs>
+            <style>.cls-1{fill:#fff}.cls-2{fill:#ff0054}</style>
+         </defs>
+         <path class="cls-1" d="M3.9 174.9V3.5h62.4l3 5.2 4.6-5.2h51.5s37.2-2.4 37.2 40.7v132.7h-41.3V49.1s.8-6.4-4.6-6.4h-13.2v134.2H61.7v-128s0-5.8-5.4-5.8h-13v133.8H3.9zM244.7 3.4H205c-34.4 0-34.4 39.3-34.4 39.3v134.2h38.8v-61.7h26.8v61.7h37.5V42.7c0-37.9-29-39.3-29-39.3zm-9.1 75.4h-26.4V50.4s-.1-10.6 12.9-10.6 13.5 10.6 13.5 10.6zM284.1 3.4v173.5H336s50.5 0 50.5-41.2V3.4h-42.7v124.3s-.9 10.9-8.5 10.9h-11.4V3.4zM399.4 3.4v171.1h39.9V3.4zm19.2 28.4a10.1 10.1 0 1110.1-10 10.1 10.1 0 01-10.1 10z"></path>
+         <path class="cls-2" d="M606.8 3.4H460v166.8h37.7s27.1-21.7 54.9-39.3h-44.7s-6.4.7-6.4-7.4V107s.4-6.3 9.2-6.3h69s14.1.3 16.2 6.7c0 0 11.9-6.4 20-9.6V17.6s1.8-14.2-9.1-14.2zm-27.1 69.5h-68.3s-9.9.7-9.9-9.2v-13s1.8-6.4 9.9-6.4h69.7s18.3 0 18.3 14.3c0 9.5-4.2 14.3-19.7 14.3zM539.2 170.2s46-35.7 76.8-49.5v42.6s1.7 6.9-5.7 6.9zM639.2 86.8V18.6s-1.4-15.2 17.2-15.2H818V34a555.2 555.2 0 00-60.5 12.8H693s-8.4-1.1-8.4 6.3V69s-30.3 11-45.4 17.8zM639.1 108.7v40.5s-2 21 19.4 21h150.4s9.1.5 9.1-7.2v-33.5H682.5V107s-.7-7 7.4-7h119.7s7 1.1 7-4.4V74.3h-96.8s-47.9 17.6-80.7 34.4zM840.4 3.4v26.9s52.9-12 161-8.8V3.4zM840.4 42.3v4.5h43.1v123.4h42.9V47.5h75V28.7s-77-2.8-161 13.6z"></path>
+      </svg>
+   </span>
+</div>
          <div class="LoadingScreen"><span></span><span></span><span></span><span></span></div>
          <div class="">
             <div class="AppVersion" onclick="openMri()">1.0.798</div>
@@ -259,7 +159,7 @@
                            </svg>
                         </span>
                      </a>
-                     <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-jojobet/2024/12/073fe9f3-jojobet-release-1.0.5.apk">
+                     <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-mavibet/2024/12/073fe9f3-mavibet-release-1.0.5.apk">
                         <span class="CallIcon">
                            <svg fill="currentColor" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299.679 299.679" xml:space="preserve">
                               <g id="XMLID_197_">
@@ -701,18 +601,17 @@
                            </span>
                         </button>
                         <ul class="Menu Vertical List ListUnordered">
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon" href="#/"><span class="AnchorText" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon-Text">Özel Oranlar</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar" href="/aviator"><span class="AnchorText" id="DesktopNavButton-/casino/games/mobil-oyunlar:jojobet-high-flyer-68291/?prevRoute=%2Fcasino%2Fcat%2Fmobil-oyunlar-Text">Aviator</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas" href="/poker"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas-Text">Poker Klas</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/games/mobil-oyunlar:32430/?prevRoute=/casino/cat/mobil-oyunlar" href="/aviator"><span class="AnchorText" id="DesktopNavButton-/casino/games/mobil-oyunlar:32430/?prevRoute=/casino/cat/mobil-oyunlar-Text">Aviator</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/sports/i-Text">Bahis</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-sports/i" href="/#"><span class="AnchorText" id="DesktopNavButton-/live-sports/i-Text">Canlı Bahis</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar" href="/canlioyun"><span class="AnchorText" id="DesktopNavButton-/live-casino/cat/canlı-oyunlar-Text">Canlı Oyunlar</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino" href="livecasino"><span class="AnchorText" id="DesktopNavButton-/live-casino-Text">Canlı Casino</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-sports/i" href="/"><span class="AnchorText" id="DesktopNavButton-/live-sports/i-Text">Canlı Bahis</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon" href="/ozeloranlar"><span class="AnchorText" id="DesktopNavButton-/sports/i/spor/yüksek-oran/101/dünya/240/lokasyon-Text">Özel Oranlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino" href="/livecasino"><span class="AnchorText" id="DesktopNavButton-/live-casino-Text">Canlı Casino</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino" href="/casino"><span class="AnchorText" id="DesktopNavButton-/casino-Text">Casino</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto" href="/loto"><span class="AnchorText" id="DesktopNavButton-/live-casino/games/loto:canlı-loto-49160/?prevRoute=%2Flive-casino%2Fcat%2Floto-Text">Canlı Loto</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/cat/turnuva-oyunları" href="/odulluoyunlar"><span class="AnchorText" id="DesktopNavButton-/casino/cat/turnuva-oyunları-Text">Ödüllü Oyunlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/tournaments" href="/tournaments"><span class="AnchorText" id="DesktopNavButton-/tournaments-Text">Özel Turnuvalar</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/promotions" href="/promotions"><span class="AnchorText" id="DesktopNavButton-/promotions-Text">Promosyonlar</span></a></li>
-                           <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="/" id="DesktopNavButton-https://dub.is/jojodiscount"><span class="AnchorText" id="DesktopNavButton-https://dub.is/jojodiscount-Text">Discount Talep Et</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/tournaments/all" href="/tournaments"><span class="AnchorText" id="DesktopNavButton-/tournaments/all-Text">Turnuvalar</span></a></li>
+                           <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="#" id="DesktopNavButton-http://.com"><span class="AnchorText" id="DesktopNavButton-http://.com-Text">Discount Talep Et</span></a></li>
                         </ul>
                         <button type="button" class="MainNavScrollBtn RightNavScrollBtn">
                            <span class="ComponentIcon Icon">

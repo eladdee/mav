@@ -1,0 +1,2 @@
+(window.webpackJsonpOMFE2_App=window.webpackJsonpOMFE2_App||[]).push([[3],{992:function(n,e,t){"use strict";t.d(e,"a",(function(){return r}));var a=t(0),c=t.n(a),p=t(484),r=Object(a.memo)((function(n){var e=n.value,t=Object(p.b)();return c.a.createElement(c.a.Fragment,null,t(e))}))}}]);
+//# sourceMappingURL=chunk.vendors~BetSlipPage~EventPage~LiveEventPage~RightSideBar~SharedBetPage~SportCategory~SportLocation~S~0ba98d11.3f2ed88ff6b85745a1ea.js.map
