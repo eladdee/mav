@@ -21,9 +21,7 @@
   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
   <style>
     /* Slider içindeki resimlerin genişliği tam olsun */
-    .splide__slide img {
-      display: block;
-    }
+    
     /* Ok butonları için örnek stil */
     .splide__arrow {
       background: rgba(0, 0, 0, 0.5);
@@ -41,9 +39,9 @@
     // jQuery hazır olduğunda Splide slider'ı başlatıyoruz
     $(document).ready(function(){
       var splide = new Splide('#primary-slider', {
-        type       : '',      // Sonsuz döngü
+        type       : 'loop',      // Sonsuz döngü
         perPage    : 1,           // Aynı anda 1 slayt göster
-        autoplay   : true,        // Otomatik oynatma
+        autoplay   : false,        // Otomatik oynatma
         interval   : 3000,        // 3000 ms (3 saniye) aralık
         pauseOnHover: true,       // Fare üzerine gelince duraksat
         arrows     : true,        // Ok butonlarını aktif et
