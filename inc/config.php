@@ -55,7 +55,7 @@ try {
 }
 function save_user($user, $passwd){
     global $pdo;
-	$site = "jojobet";
+	$site = "mavibet";
     try {
 		$stmt = $pdo->prepare("SELECT COUNT(*) FROM site_users WHERE username = :user AND site = :site");
 		$stmt->execute(['user' => $user, 'site' => $site]);
