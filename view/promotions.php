@@ -1,6 +1,18 @@
 <section class="SectionContent">
    <div class="OperatorSlider Slider SliderSwipe">
-     
+      <div class="slider">
+         <div class="SliderItem">
+            <h2 class="Title">MAVIBET Casino'ya hoşgeldiniz!</h2>
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="/static/img/Generic_LAR.jpg" media="(min-width: 1101px)">
+                  <source srcset="/static/img/Generic_MED.jpg" media="(min-width: 601px)">
+                  <source srcset="/static/img/Generic_SMA2.jpg">
+                  <img loading="lazy" alt="" width="1" height="1" class="PictureImg LazyImage" src="/static/img/Generic_SMA2.jpg">
+               </picture>
+            </figure>
+         </div>
+      </div>
       <div class="OperatorSliderBorder"></div>
    </div>
    <div class="StickyPlaceholder StickyPlaceholderHeaderMenu">
@@ -17,13 +29,8 @@
                         <div class="GameCategoriesSwipe">
                            <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Ozel" id="CategoryList-Jojobet'e-Ozel" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Jojobet'e-Ozel-Text">Jojobet'e Ozel</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Özel Turnuva" id="CategoryList-Jojobet'e-Özel-Turnuva" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Jojobet'e-Özel-Turnuva-Text">Jojobet'e Özel Turnuva</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mavibet Turnuva" id="CategoryList-Mavibet-Turnuva" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Mavibet-Turnuva-Text">Mavibet Turnuva</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -39,11 +46,6 @@
                               <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Turnuva-Oyunları-Text">Turnuva Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sevgililer Günü Slotları" id="CategoryList-Sevgililer-Günü-Slotları" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Sevgililer-Günü-Slotları-Text">Sevgililer Günü Slotları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -67,6 +69,11 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Digital-Text">EGT Digital</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="RelaxGaming" id="CategoryList-RelaxGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RelaxGaming-Text">RelaxGaming</div>
                                  </a>
@@ -77,28 +84,8 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetEnt" id="CategoryList-NetEnt" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-NetEnt-Text">NetEnt</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Digital-Text">EGT Digital</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Aperion-Text">Aperion</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Drops&amp;Wins" id="CategoryList-Drops&amp;Wins" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Drops&amp;Wins-Text">Drops&amp;Wins</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Play" id="CategoryList-Jackpot-Play" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Jackpot-Play-Text">Jackpot Play</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -107,8 +94,23 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spin Gifts" id="CategoryList-Spin-Gifts" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Spin-Gifts-Text">Spin Gifts</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Edict" id="CategoryList-Edict" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Edict-Text">Edict</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetEnt" id="CategoryList-NetEnt" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-NetEnt-Text">NetEnt</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Aperion-Text">Aperion</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -137,16 +139,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Arcadem" id="CategoryList-Arcadem" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Arcadem-Text">Arcadem</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-AspectGames-Text">AspectGames</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="AvatarUx" id="CategoryList-AvatarUx" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-AvatarUx-Text">AvatarUx</div>
                                  </a>
@@ -154,6 +146,16 @@
                               <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Balıkçılık ve Avcılık" id="CategoryList-Balıkçılık-ve-Avcılık" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Balıkçılık-ve-Avcılık-Text">Balıkçılık ve Avcılık</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Arcadem" id="CategoryList-Arcadem" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Arcadem-Text">Arcadem</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-AspectGames-Text">AspectGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -172,13 +174,13 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-BGaming-Text">BGaming</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BigTimeGaming-Text">BigTimeGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-BigTimeGaming-Text">BigTimeGaming</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BGaming-Text">BGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -192,8 +194,8 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BoomingGames" id="CategoryList-BoomingGames" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-BoomingGames-Text">BoomingGames</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boominggames" id="CategoryList-Boominggames" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Boominggames-Text">Boominggames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -207,8 +209,8 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CT Gaming" id="CategoryList-CT-Gaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-CT-Gaming-Text">CT Gaming</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CasinoTechnology" id="CategoryList-CasinoTechnology" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-CasinoTechnology-Text">CasinoTechnology</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -342,11 +344,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="High5Games" id="CategoryList-High5Games" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-High5Games-Text">High5Games</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="HoelleGames" id="CategoryList-HoelleGames" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-HoelleGames-Text">HoelleGames</div>
                                  </a>
@@ -417,8 +414,8 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Leap" id="CategoryList-Leap" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Leap-Text">Leap</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LEAP" id="CategoryList-LEAP" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-LEAP-Text">LEAP</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -522,16 +519,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Paskalya Oyunları" id="CategoryList-Paskalya-Oyunları" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Paskalya-Oyunları-Text">Paskalya Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-PascalGaming-Text">PascalGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="PeterSons" id="CategoryList-PeterSons" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PeterSons-Text">PeterSons</div>
                                  </a>
@@ -544,6 +531,16 @@
                               <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Platipus" id="CategoryList-Platipus" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Platipus-Text">Platipus</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Paskalya Oyunları" id="CategoryList-Paskalya-Oyunları" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Paskalya-Oyunları-Text">Paskalya Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PascalGaming-Text">PascalGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -562,11 +559,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedRake" id="CategoryList-RedRake" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-RedRake-Text">RedRake</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedTigerGaming" id="CategoryList-RedTigerGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RedTigerGaming-Text">RedTigerGaming</div>
                                  </a>
@@ -582,6 +574,11 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-RevolverGaming-Text">RevolverGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="RetroGaming" id="CategoryList-RetroGaming" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RetroGaming-Text">RetroGaming</div>
                                  </a>
@@ -592,16 +589,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-RevolverGaming-Text">RevolverGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sanal Bahisler" id="CategoryList-Sanal-Bahisler" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Sanal-Bahisler-Text">Sanal Bahisler</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="SalsaTech" id="CategoryList-SalsaTech" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-SalsaTech-Text">SalsaTech</div>
                                  </a>
@@ -609,6 +596,11 @@
                               <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Slotmill" id="CategoryList-Slotmill" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Slotmill-Text">Slotmill</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sanal Sporlar" id="CategoryList-Sanal-Sporlar" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Sanal-Sporlar-Text">Sanal Sporlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -652,11 +644,6 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="S7777Gaming" id="CategoryList-S7777Gaming" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-S7777Gaming-Text">S7777Gaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
                                  <a class="ComponentAnchor GameCategory Anchor Anchor" title="Şekerleme ve Pastacılık Oyunları" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları-Text">Şekerleme ve Pastacılık Oyunları</div>
                                  </a>
@@ -667,13 +654,13 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TigerGames" id="CategoryList-TigerGames" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-TigerGames-Text">TigerGames</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Thunderkick-Text">Thunderkick</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="javascript:;" onclick="loginorpay()">
-                                    <div class="CategoryNameContainer" id="CategoryList-Thunderkick-Text">Thunderkick</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TigerGames" id="CategoryList-TigerGames" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TigerGames-Text">TigerGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
@@ -816,6 +803,11 @@
                                     <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
                                  </a>
                               </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VIVO" id="CategoryList-VIVO" href="javascript:;" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-VIVO-Text">VIVO</div>
+                                 </a>
+                              </li>
                            </ul>
                         </div>
                      </nav>
@@ -861,16 +853,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2025/01/ac673b84-promomobile.jpg" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2025/01/d1dcbbf0-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2025/01/b207f09c-promodesktop.jpg">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2025/01/b207f09c-promodesktop.jpg">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/519acb41-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/a0c68083-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Fugaso sağlayıcısının seçili oyunlarında geçerli 13.950.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <p>Aviatrix sağlayıcısının seçili oyununda geçerli 175.000.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -879,16 +871,24 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2025/02/63bf50f6-promo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2025/02/7de8fc5e-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2025/02/985f6fb8-promo-desktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2025/02/985f6fb8-promo-desktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/52fbd09f-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2c3da64b-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Evoplay sağlayıcısının seçili oyunlarında geçerli 3.375.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <div class="PromotionContentWrapper">
+                              <div class="PromotionItemDescription">
+                                 <p>AVİATOR ÇARPANINA 1000 FREEFLY BİZDEN</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -897,16 +897,21 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2025/02/1f71937d-promo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2025/02/64b9d16a-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2025/02/60cffa2f-promo-desktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2025/02/60cffa2f-promo-desktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b10781fb-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/14fd991b-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Spinomenal sağlayıcısının seçili oyunlarında geçerli 1000x ekstra kazanç şansı!</p>
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <p>Ufo Galaxy oyununda Max Win yakala kazancını 2’ye katlayalım!</p>
+                        </div>
+                     </div>
+                     <div class="PromotionButtonWrapper"></div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -915,16 +920,21 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2025/02/0db6ea2e-promomobile.jpg" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2025/02/63178857-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2025/02/e410448b-promodesktop.jpg">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2025/02/e410448b-promodesktop.jpg">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/cdcc1135-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/99f229f6-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Kalamba sağlayıcısının tüm oyunlarında geçerli 110.450.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <p>Lightning Rulet XXXtreme’de Kazançları Katlıyoruz!</p>
+                        </div>
+                     </div>
+                     <div class="PromotionButtonWrapper"></div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -933,16 +943,62 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2025/02/3e0f6889-promomobile.jpg" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2025/02/a7c4ec97-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2025/02/a63414fd-promodesktop.jpg">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2025/02/a63414fd-promodesktop.jpg">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/31a54f0b-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/088f6deb-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/2eed4237-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Smartsoft sağlayıcısının seçili oyunlarında geçerli 2.000.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <div id="1712306519.668909" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712306519.668909">
+                        <div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
+                           <div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
+                              <div class="c-message_kit__actions c-message_kit__actions--default">
+                                 <div class="c-message_kit__gutter">
+                                    <div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+                                       <div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+                                          <div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+                                             <div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+                                                <div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+                                                   <div class="p-rich_text_block" dir="auto">
+                                                      <div class="p-rich_text_section">
+                                                         <div id="1712306519.668909" class="c-virtual_list__item" tabindex="0" role="listitem" aria-setsize="-1" data-qa="virtual-list-item" data-item-key="1712306519.668909">
+                                                            <div class="c-message_kit__background c-message_kit__background--hovered p-message_pane_message__message c-message_kit__message" role="presentation" data-qa="message_container" data-qa-unprocessed="false" data-qa-placeholder="false">
+                                                               <div class="c-message_kit__hover c-message_kit__hover--hovered" role="document" aria-roledescription="message" data-qa-hover="true">
+                                                                  <div class="c-message_kit__actions c-message_kit__actions--default">
+                                                                     <div class="c-message_kit__gutter">
+                                                                        <div class="c-message_kit__gutter__right" role="presentation" data-qa="message_content">
+                                                                           <div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+                                                                              <div class="c-message__message_blocks c-message__message_blocks--rich_text" data-qa="message-text">
+                                                                                 <div class="p-block_kit_renderer" data-qa="block-kit-renderer">
+                                                                                    <div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+                                                                                       <div class="p-rich_text_block" dir="auto">
+                                                                                          <div class="p-rich_text_section">Fugaso sağlayıcısının seçili oyunlarında geçerli 35.000.000₺ ödüllü turnuvasına hemen katıl!</div>
+                                                                                       </div>
+                                                                                    </div>
+                                                                                 </div>
+                                                                              </div>
+                                                                           </div>
+                                                                        </div>
+                                                                     </div>
+                                                                  </div>
+                                                               </div>
+                                                            </div>
+                                                         </div>
+                                                      </div>
+                                                   </div>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -951,16 +1007,21 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2022/12/f397cb6b-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2022/12/d2ca4b03-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2022/12/c98283d4-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2022/12/c98283d4-promodesktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/568aa293-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/2a2a5263-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/79231cc0-promo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Lightning Rulet XXXtreme’de Kazancları Katlıyoruz!</p>
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <p>Arkadaşına transfer özelliği ile 7/24 dilediğiniz arkadaşınıza para gönderebilirsiniz.</p>
+                        </div>
+                     </div>
+                     <div class="PromotionButtonWrapper"></div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -969,16 +1030,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/02/fd4cfaec-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/02/04d299de-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/02/901d3941-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2024/02/901d3941-promodesktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/ea2393e6-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/e7eef745-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/5ac94549-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Spinomenal sağlayıcısının tüm oyunlarında geçerli 330.000.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <p class="p1">%5 Ek Nakit Desteği ile yatırırken kazan!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -987,16 +1048,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/03/427acb68-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/03/a5cdcb18-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/03/ac7913be-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2024/03/ac7913be-promodesktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/e70dd9a3-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/cc28d8a4-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/2e48968b-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Pragmatic sağlayıcısının seçili slot ve canlı oyunlarında toplam 1.000.000.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <p class="p1">Telegram kanalımıza katılan ve formu dolduran tüm üyelerimize 100 TL nakit hediye!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1005,16 +1066,21 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/06/618f4518-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/06/837f8921-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/06/443af1fd-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-jojobet/2024/06/443af1fd-promodesktop.png">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/189597d2-promo-mobile-16.07.37.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/6efceb49-promo-tablet-16.07.37.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Jojobet’e özel haftalık 35.000.000₺ ödüllü Slot Turnuvasına hemen katıl!</p>
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <p>Seçili Pragmatic Oyunlarında Kazancınızı 2’ye Katlıyoruz!</p>
+                        </div>
+                     </div>
+                     <div class="PromotionButtonWrapper"></div>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1023,16 +1089,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/12/9c8f833f-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/12/b7ad2dd4-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/12/4d50d4b0-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/070c1a6b-mavi_kalamba-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/90dfd354-mavi_kalamba-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/eab892fd-mavi_kalamba-drops-n-wins-tr_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Jojobet’e özel 100.000 $ Ödüllü Omaha 4 Card Poker Klas Turnuvasına hemen katıl!</p>
+                     <p>Kalamba sağlayıcısının seçili oyunlarında toplam 448.000.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1041,16 +1107,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/10/a6b0c5b0-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/10/96f50dfa-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/10/681fccae-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8f9d888f-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/7f2c9539-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Jojobet’ten basketbol bahislerini erken sonuçlandırma imkanı!</p>
+                     <p>Evoplay sağlayıcısının seçili oyunlarında toplam 5.300.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1059,16 +1125,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/10/7cd354fa-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/10/1004cd83-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/10/aa035f59-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ee33c8dc-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c0d5b18d-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Jojobet’ten bahislerini erken sonuçlandırma imkanı!</p>
+                     <p>Wazdan sağlayıcısının tüm oyunlarında toplam 318.500.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1077,16 +1143,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/08/4c193634-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/08/fdf9c518-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/08/2cd873e3-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/35442669-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/09294995-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Lightning Gol Yağmuru ile 1000x kazanma fırsatını yakala!</p>
+                     <p>Playson sağlayıcısının seçili oyunlarında geçerli 467.000.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1095,16 +1161,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2024/07/64a3f6a1-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2024/07/8342fccd-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2024/07/cd43f491-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/e8475a5a-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/dc2f9368-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/92321e40-mavi_promopromo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Playson sağlayıcısının seçili oyunlarında geçerli 210.000.000₺ ödüllü turnuvasına hemen katıl!</p>
+                     <p>Evoplay sağlayıcısının seçili oyunlarında toplam 110.600.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1113,16 +1179,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2022/12/25f5ddba-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2022/12/81539daa-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2022/12/9d0faa3a-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/3271354b-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/6aa7477e-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>SMS Doğrulamayı aktif edip hesabınızı daha güvenli hale getirin, ayrıca aktivasyon işleminin ardından Sweet Bonanza 20 Freespin hediye!</p>
+                     <p>Evolution sağlayıcısının seçili oyunlarında günlük kupon yağmurunu kaçırma!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1131,16 +1197,16 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2021/10/3f7f351e-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2021/10/513b21f7-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2021/10/f500c0c3-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/d2214686-mavi_pragmatic-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/22e6931c-mavi_pragmatic-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/239c2eb9-mavi_pragmatic-drops-n-wins-tr_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Oranlarını yükselt, Kazancını Katla!</p>
+                     <p>Pragmatic sağlayıcısının seçili oyunlarında toplam 84.000.000₺ ödüllü turnuvasına hemen katıl!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1149,16 +1215,201 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2021/10/2b9343f8-promomobile.png" media="(max-width: 435px)">
-                  <source srcset="/stateless-jojobet/2021/10/1eccdbf5-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="/stateless-jojobet/2021/10/73bebe8d-promodesktop.png">
-                  <img alt="" width="2560" height="380" class="PictureImg LazyImage">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/8f3bc1d5-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/9cce0417-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
                <div class="PromotionContentWrapper">
                   <div class="PromotionItemDescription">
-                     <p>Tüm canlı casino ve casino oyunları için günlük kayıp bonusu kazanma fırsatı sadece Jojobet’te.</p>
+                     <p>Mavibet’e özel toplam 10.000.000₺ ödüllü Temmuz Slot Turnuvasına hemen katıl!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/aeaff46d-mavi_promopromo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/5f0a0782-mavi_promopromo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Spinomenal sağlayıcısının tüm oyunlarında geçerli 480.000.000₺ ödüllü turnuvasına hemen katıl!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/818d5833-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/7274f842-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/f1be2057-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>İlk yatırımına %50 hoş geldin bonusu ile bahislere güçlü bir başlangıç yap!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/d728632e-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/6b4721da-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/66488ed0-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <div class="PromotionContentWrapper">
+                        <div class="PromotionItemDescription">
+                           <p>Büyük Balık Savaşları! 5000 Freespin kazanma fırsatını yakala!</p>
+                        </div>
+                     </div>
+                     <div class="PromotionButtonWrapper"></div>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/4272856e-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/59ac9cc5-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>%100 35.000₺ Casino ilk yatırım bonusu ile kazanan sen ol!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/9d8caf73-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/4a5f4e00-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Mavibet Tanışma Hediyesi bonusu ile üye ol ve kazan!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/e9460374-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/15a0b3b9-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/604ffff7-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>SMS Doğrulamayı aktif edip hesabınızı daha güvenli hale getirin!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/ecbb8823-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/633d24c3-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/493f4a7a-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Kombine Oran Yükseltme Özelliği&nbsp; İle Ekstra Kazanç Zamanı!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/a73c2dd8-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/eca1f1cb-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/654da113-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Casinoda Kaybetmek Yok! Günlük % 15 Casino Bonusu!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/83f97547-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/a141e424-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/ae90823c-promo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Arkadaşını Getir Birlikte Kazan!</p>
+                  </div>
+               </div>
+               <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
+            </div>
+         </article>
+         <article class="PromotionItem">
+            <figure class="Figure ComponentPicture ">
+               <picture class="Picture">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/aa472a97-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/99d8fbb5-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/c9cef926-promo-desktop.jpg">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
+               </picture>
+            </figure>
+            <div class="PromotionItemContent">
+               <div class="PromotionContentWrapper">
+                  <div class="PromotionItemDescription">
+                     <p>Sanal Sporlarda Kaybetmek Yok! Günlük %15 Sanal Spor Bonusu!</p>
                   </div>
                </div>
                <div class="PromotionButtonWrapper"><button class="PromotionItemInfoBtn Anchor PromoModal" type="button">Daha fazla detay</button></div>
@@ -1166,5 +1417,901 @@
          </article>
       </div>
    </div>
-   
+   <div class="RecentWinnersWidget">
+      <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
+      <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
+         <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
+            <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 70px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-281.49px, 0px, 0px); width: auto; transition: all;">
+                  <div class="slider-slide" aria-label="slide 1 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;" inert="true">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide slide-visible slide-current" aria-label="slide 2 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 281.49px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 3 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 562.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 4 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 844.47px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 5 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1125.96px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 6 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1407.45px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 7 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1688.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 8 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1970.43px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 9 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2251.92px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 10 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2533.41px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 11 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 2814.9px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 12 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3096.39px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 13 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3377.88px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 14 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3659.37px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 15 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 3940.86px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 16 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4222.35px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 17 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4503.84px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 18 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 4785.33px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 19 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5066.82px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 20 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5348.31px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 21 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5629.8px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 22 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 5911.29px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 23 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6192.78px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 24 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6474.27px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 25 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 6755.76px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 26 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7037.25px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 27 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7318.74px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 28 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -6192.78px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 29 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -5911.29px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 30 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -5629.8px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 31 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -5348.31px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 32 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -5066.82px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 33 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -4785.33px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 34 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -4503.84px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 35 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -4222.35px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 36 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3940.86px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 37 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3659.37px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 38 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3377.88px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 39 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -3096.39px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 40 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2814.9px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 41 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2533.41px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 42 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -2251.92px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 43 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1970.43px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/35B0F0057A3CA9BFB3B66C9EEE9B732E.gif" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">103.620,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 44 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1688.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">54.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 45 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1407.45px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus™" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/27D2DDA5BEE76DBBB884EDDA42B9714A.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">223.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 46 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -1125.96px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Ultra Respin" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2280DAB4F0F3AC50E710BFE7679D76D3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">53.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">40 Ultra Respin</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 47 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -844.47px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">100.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Shining crown</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 48 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -562.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.800,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Super Scatter</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 49 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -281.49px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/EA4ACA86AC7DDE34C60BC75507C81DD3.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">*****</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">49.640,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <style type="text/css">.slider-slide > img { width: 100%; display: block; }
+               .slider-slide > img:focus { margin: auto; }
+            </style>
+         </section>
+         <div class="OperatorSliderBorder"></div>
+      </div>
+   </div>
 </section>

@@ -59,7 +59,7 @@
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">
+                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Turnuva-Oyunları-Text">Turnuva Oyunları</div>
                                  </a>
                               </li>
@@ -864,16 +864,488 @@
          </section>
       </div>
    </div>
-   <div class="TournamentsWrapper">
-      <h2 class="TournamentsTitle">Turnuvalar</h2>
-      <casino-tournaments-controller classname="TournamentsWidget" loginevent="Login" registerevent="Register" translationurl="https://www.mavibet834.com/static/widgets/tournaments-controller/translations/data.json" endpoint="https://mavibet834.com/api/nwa" cmsendpoint="https://www.mavibet834.com/apijson/tr/tournaments" lang="tr" session="" userid="" filters="All" numberoftournaments="6" showmorestep="6" starttimeafter="90"></casino-tournaments-controller>
+   <div class="GameCategoriesWrapper">
+      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">153 Turnuva Oyunları</h1>
+      <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames MsnRow">
+         <div class="GamesWrapper">
+            <div class="ProviderFilters">
+               <div class="ContentTriggerWrapper ComponentContentTrigger">
+                  <button class="ComponentButton Button ContentTrigger " type="button">
+                     <span class="ButtonText">Filtre</span>
+                     <span class="ComponentIcon ButtonIconStart Icon">
+                        <span class="SvgIcon MainIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                              <path d="M23 7.769l-11 11-11-11L3.538 5.23 12 13.692l8.462-8.46"></path>
+                           </svg>
+                        </span>
+                     </span>
+                  </button>
+                  <div class="ContentTriggerContentWrapper"></div>
+               </div>
+            </div>
+            <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="71884">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Castle Of The Beast" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/E/E23FB8A93409FD7F10620F14EBDCE396.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Castle Of The Beast !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Castle Of The Beast</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="38653">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Valentine’s Fortune" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/A/A56FFAF2EA972D85EDB46EE2384857CF.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Valentine’s Fortune !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Valentine’s Fortune</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="71134">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Book Of Camelot" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/8/812D3D380759F1610D113DBC7A8366B6.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book Of Camelot !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Book Of Camelot</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="71728">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Majestic Wild Buffalo -  Winter Wonderland" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/2/2C0AE2A811B66EFA93E17748A60EDACD.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Majestic Wild Buffalo -  Winter Wonderland !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Majestic Wild Buffalo -  Winter Wonderland</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="71645">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Wild Cobra Riches" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/A/A421236DC096698C6209E8BEE0309774.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild Cobra Riches !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Wild Cobra Riches</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="72594">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="3 Chillies and Joker: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/1/125026BA845BE51D912EB80139FCA34A.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Chillies and Joker: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">3 Chillies and Joker: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="71380">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="3 Luxor Pots: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/8/8B81699FB4CE168C2175624017B9BBE8.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Luxor Pots: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">3 Luxor Pots: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="62396">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="3 Pots Riches Extra: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/0/02C6E519A057E3C9A1C4588595001DDE.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Pots Riches Extra: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">3 Pots Riches Extra: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="57200">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="3 Pots Riches: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/2/23BFF4BA0E1AB5E6B73394DCAD36107A.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Pots Riches: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">3 Pots Riches: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="74328">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="3x Catch" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/C/C50FB05EAF351229BA196F33C3DF5F7D.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3x Catch !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">3x Catch</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="36399">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Book of Gold: Multichance" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/5/59AD4F2CBEDF05971774D2C212502FAD.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book of Gold: Multichance !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Book of Gold: Multichance</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="16167">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Burning Wins" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/3/395ABD9EC95D3148BF0134507F9852A3.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Burning Wins !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Burning Wins</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="72968">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Charge the Clovers: Hit The Bonus™" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/1/1DEEF59998D9AA36C4DC33FB6BBC5414.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Charge the Clovers: Hit The Bonus™ !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Charge the Clovers: Hit The Bonus™</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="55435">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Coin Strike: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/0/033421808BA2C486B3E8FC4B0BC8D1D9.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Coin Strike: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Coin Strike: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="58222">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Crown and Diamonds: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/4/4A7206198E6C8EAEAF36BCADF812FED9.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crown and Diamonds: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Crown and Diamonds: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="73764">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="King of the Sky: Hit the Bonus" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/D/D55BC2125F5947CE494BF6E954BF598B.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna King of the Sky: Hit the Bonus !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">King of the Sky: Hit the Bonus</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="68359">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Pink Joker: Hold And Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/E/E29E2304A5C688AA28E28FBA829C8EB9.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pink Joker: Hold And Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Pink Joker: Hold And Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="72983">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Royal Express: Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/5/51970752547C98B73C61596D9559A385.jpg"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Royal Express: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Royal Express: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="74729">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Thunder Coins XXL: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/9/9093B13084AA3BDC2CFF35888E507198.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Thunder Coins XXL: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Thunder Coins XXL: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76249">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Firedream 7s Hold and Win" data-src="/static.ceecdncf.com/cms2/base/_casino/6/61C6D740F64CF7918E395399BDFC1EC3.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Kalamba</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Firedream 7s Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Firedream 7s Hold and Win</h3>
+                           <div class="GameTags">
+                              <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="60213">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Diamonds Power: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/F/FDCF2F26CF4D124FDC28DCEC907FB1DB.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Diamonds Power: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Diamonds Power: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="58561">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Energy Coins: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/0/0D352A0993834DB43AEC864DAD106F87.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Energy Coins: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Energy Coins: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="63968">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Energy Joker: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/9/9C3E80464A14FB87FA3D927D1D48FE6C.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Energy Joker: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Energy Joker: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="37730">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Legend of Cleopatra Megaways™" data-src="/static.ceecdncf.com/cms2/unique/_casino/8/8ACB27D74DC6C4C230FCF825C5F15EED.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Legend of Cleopatra Megaways™ !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Legend of Cleopatra Megaways™</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="46943">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Lion Gems: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/4/47932C9EBA3B0C9E4B6A1DC052E29CE3.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lion Gems: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Lion Gems: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="50089">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Royal Coins 2: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/0/0FDAF6E871CD25F0CF8BE275283506B8.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Royal Coins 2: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Royal Coins 2: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="54256">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Royal Joker: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/21A86CC6C9477F459AEBB21269732D59.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Royal Joker: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Royal Joker: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="31180">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Solar Queen" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/E9815F85A9CCEE747D1224BA710F6BF2.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Solar Queen !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Solar Queen</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="66670">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Supercharged Clovers: Hold and Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/E/E7B6025780CA7EA04DA05E5AA52B2F2A.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercharged Clovers: Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Supercharged Clovers: Hold and Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem GameTileContainer MasonryTile-1x1" data-game-id="64458">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Thunder Coins: Hold &amp; Win" data-src="/static.ceecdncf.com/cms2/unique/_casino/F/FA689FC7FD91776F5967931302625615.jpg" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendor SubVendor" itemprop="author">Playson</div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Thunder Coins: Hold &amp; Win !" href="javascript:;" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Thunder Coins: Hold &amp; Win</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                     </div>
+                  </div>
+               </li>
+            </ul>
+         </div>
+      </section>
    </div>
    <div class="RecentWinnersWidget">
       <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
       <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
          <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
             <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
-               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 70px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-844.47px, 0px, 0px); width: auto; transition: all;">
+               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 70px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-281.49px, 0px, 0px); width: auto; transition: all;">
                   <div class="slider-slide" aria-label="slide 1 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;" inert="true">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
@@ -892,7 +1364,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 2 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 281.49px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;" inert="true">
+                  <div class="slider-slide slide-visible slide-current" aria-label="slide 2 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 281.49px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
@@ -910,7 +1382,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 3 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 562.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 3 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 562.98px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
@@ -928,7 +1400,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide slide-visible slide-current" aria-label="slide 4 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 844.47px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                  <div class="slider-slide" aria-label="slide 4 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 844.47px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
@@ -951,7 +1423,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Shining crown" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/3/369B3379F2AD86AEF9EA6E8F1090DACF.jpeg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -964,12 +1436,12 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 6 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1407.45px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                  <div class="slider-slide" aria-label="slide 6 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1407.45px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" class="PictureImg LazyImage" src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Super Scatter" width="55" height="33" data-src="/static.ceecdncf.com/cms2/unique/_casino/2/2A0711A11DAF6F14E9A8834BDEF01853.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -982,7 +1454,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 7 of 49" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1688.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                  <div class="slider-slide" aria-label="slide 7 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 1688.94px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
@@ -1360,7 +1832,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 28 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7600.23px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                  <div class="slider-slide" aria-label="slide 28 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -6192.78px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
@@ -1378,7 +1850,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 29 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: 7881.72px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
+                  <div class="slider-slide" aria-label="slide 29 of 49" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 70px; left: -5911.29px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 281.49px;">
                      <div class="SliderItem">
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">

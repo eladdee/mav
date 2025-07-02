@@ -1,4 +1,3 @@
-
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
       <div class="GameLeftWrapper ComponentLayout InstanceOperatorGamepageLeftCol Layout RecommendedListWrapper">
@@ -6,181 +5,16 @@
             <div class="GamesSwipeable">
                <div class="GamesWrapper">
                   <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
-                     <li class="ListGame ListItem" data-game-id="70799">
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76345">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/816D486D12523CDEF8611B435E13A67E.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza 1000 !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojo Bonanza 1000</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="70491">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Space" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2AA9B5CE668CC44BC3222C027D683379.jpg"></div>
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Extra Crown Classic Buy Bonus" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/A/AAFAD2FBDC649FD7A17F6ECBE88EAA43.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Space !" href="javascript:;" onclick="loginorpay()">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Extra Crown Classic Buy Bonus !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojo Space</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="69165">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Rush 1000 !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojo Rush 1000</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="68350">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Princess 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Princess 1000 !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet Princess 1000</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="54985">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Gates of Jojobet" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Jojobet !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Gates of Jojobet</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="45957">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojo Bonanza</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="65946">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Athena's Glory" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/211CBABC7B792B8688D1CF6F6D5F2907.gif"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Athena's Glory !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet Athena's Glory</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="63914">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Almighty Zeus" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/9D6365035693F9C705AB50E94F16536D.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">MicrogamingA</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Almighty Zeus !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet Almighty Zeus</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="60463">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Wild Santa 2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/680C687929E2162C55A7D359D72E12EB.gif"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Wild Santa 2 !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet Wild Santa 2</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="70393">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet XMAS Joker" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/82107298B12832ECBC51681CEDE6FE55.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet XMAS Joker !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet XMAS Joker</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem" data-game-id="70960">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Blitz" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/905DA7FA72B2AEDC44BB3EAFAE5897E3.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">MicrogamingA</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Blitz !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Jojobet Blitz</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem WithGameTags" data-game-id="71692">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Wolf Stacks Megaways™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/03DA07F6CA1FD147E4ADB958586AF43C.jpg"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wolf Stacks Megaways™ !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Wolf Stacks Megaways™</h3>
+                                 <h3 class="GameTitle" itemprop="name">Extra Crown Classic Buy Bonus</h3>
                                  <div class="GameTags">
                                     <div class="GameProp NewGame NewGameRibbon">YENİ</div>
                                  </div>
@@ -188,47 +22,240 @@
                            </div>
                         </div>
                      </li>
-                     <li class="ListGame ListItem Lazy" data-game-id="72231">
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76353">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Wolf Fang - Ice &amp; Fire" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Midnight Pack - Hold &amp; Hit" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/7/71A9E9635D409002EF427900C44B71DC.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wolf Fang - Ice &amp; Fire !" href="javascript:;" onclick="loginorpay()">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Midnight Pack - Hold &amp; Hit !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Wolf Fang - Ice &amp; Fire</h3>
-                                 <div class="GameTags"></div>
+                                 <h3 class="GameTitle" itemprop="name">Midnight Pack - Hold &amp; Hit</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
                               </div>
                            </div>
                         </div>
                      </li>
-                     <li class="ListGame ListItem Lazy" data-game-id="71995">
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="75993">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Sticky Candyland" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Safari Richness" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/A/A89CD283917EED4C0FF9869D2D982809.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">TripleCherry</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Safari Richness !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Safari Richness</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76361">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Gem Fire Fortune" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/3/3B4EF6963CA0B06E4D909211D2FDBBF2.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gem Fire Fortune !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Gem Fire Fortune</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76249">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Firedream 7s Hold and Win" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/6/61C6D740F64CF7918E395399BDFC1EC3.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Kalamba</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Firedream 7s Hold and Win !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Firedream 7s Hold and Win</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76298">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Gold Party 2 – After Hours" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/8/8F0D8D98400DDE8753B5D0D957104C28.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gold Party 2 – After Hours !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Gold Party 2 – After Hours</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76299">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="777 Diamond Strike" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/6/63C98DF719BECB1A985FAD77DD58D06B.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 777 Diamond Strike !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">777 Diamond Strike</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76229">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="3 Capybaras" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/1/1821DCC007D8E164FB22774AD6B71714.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">OneXTwoGaming</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 3 Capybaras !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">3 Capybaras</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76219">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Break Away Gold" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/D/DD48AFD377E9D675091C8B4A1A2D1974.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">MicrogamingA</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Break Away Gold !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Break Away Gold</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76320">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Coin Princess x1000" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/7/75C4237D9C8D9A140C19488EE1AF4C2E.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">ThreeOaks</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Coin Princess x1000 !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Coin Princess x1000</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76218">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Indian Adventure: Infinity Freespins" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/7/7C232DD281AD29257E4C26CD09933A0B.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Onlyplay</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Indian Adventure: Infinity Freespins !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Indian Adventure: Infinity Freespins</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="75902">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="4 FOXX Crew WildEnergy™ MultiMax™" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/2/2C6965227080CC86434C564434C6D9AF.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Yggdrasil</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 4 FOXX Crew WildEnergy™ MultiMax™ !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">4 FOXX Crew WildEnergy™ MultiMax™</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76304">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Wild Sticky Clover" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/3/38D6DADE0F37EDEEBF886038E49BAA81.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Fazi</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wild Sticky Clover !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Wild Sticky Clover</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76276">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Book Of The Titans - Zeus" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/C/C3A50B5028342DC3EE93F93E4096926B.jpg"></div>
+                              <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Book Of The Titans - Zeus !" href="javascript:;" onclick="loginorpay()">
+                                 <div class="GamePlayNowText">Hemen Oyna!</div>
+                              </a>
+                              <div class="GameDetails">
+                                 <h3 class="GameTitle" itemprop="name">Book Of The Titans - Zeus</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li class="ListGame ListItem GameTileContainer MasonryTile-1x1 WithGameTags" data-game-id="76270">
+                        <div class="ListGameLink Anchor">
+                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                              <div class="GameThumbailWrapper"><img loading="lazy" alt="Le King™" class="GameThumb ListGameImage LazyImage" src="/static.ceecdncf.com/cms2/base/_casino/3/3D82165FF012E4251D9C66CAB19CF72F.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Hacksaw</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sticky Candyland !" href="javascript:;" onclick="loginorpay()">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Le King™ !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Sticky Candyland</h3>
-                                 <div class="GameTags"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li class="ListGame ListItem Lazy" data-game-id="72114">
-                        <div class="ListGameLink Anchor">
-                           <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Fairytale Beauties 2 -  Enchanted Hearts" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
-                              <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fairytale Beauties 2 -  Enchanted Hearts !" href="javascript:;" onclick="loginorpay()">
-                                 <div class="GamePlayNowText">Hemen Oyna!</div>
-                              </a>
-                              <div class="GameDetails">
-                                 <h3 class="GameTitle" itemprop="name">Fairytale Beauties 2 -  Enchanted Hearts</h3>
-                                 <div class="GameTags"></div>
+                                 <h3 class="GameTitle" itemprop="name">Le King™</h3>
+                                 <div class="GameTags">
+                                    <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                                 </div>
                               </div>
                            </div>
                         </div>
@@ -253,7 +280,7 @@
                <li class="GmowGameColumn" style="width: auto;">
                   <div class="GmowGameWindow">
                      <h2 class="ComponentTitle InstanceCasinGameTitle Title">Aviator</h2>
-                     <div class="IframeContainer GmowGame GmowOperatorDesktop GmowGameFrame" style="width: 2002px; height: 1192.68px;">
+                     <div class="IframeContainer GmowGame GmowOperatorDesktop GmowGameFrame" style="width: 1168px; height: 662.173px;">
                         <div class="BtnGroup LeftSide">
                            <button type="button" class="BtnGroupItem SwitchButton Button" title="Oyun Değiştir">
                               <span class="ComponentIcon Icon">
@@ -265,7 +292,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://demo.spribe.io/launch/aviator?currency=TRY&lang=tr&jurisdiction=" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="2002" height="1192.6808510638298"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.mavibet834.com/Loader/Start/2007/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.mavibet834.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1168" height="662.1732283464567"></iframe></div>
                      </div>
                   </div>
                </li>
@@ -307,7 +334,7 @@
                            </span>
                         </span>
                      </button>
-                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="/casino">
+                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="javascript:;" onclick="loginorpay()">
                         <span class="ComponentIcon Icon">
                            <span class="SvgIcon MainIcon CustomHtml">
                               <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
@@ -330,23 +357,8 @@
                      </button>
                   </div>
                </div>
-               <script>
-                  $(document).ready(function(){
-  function updateClock(){
-    var now = new Date();
-    var hours = now.getHours().toString().padStart(2, '0');
-    var minutes = now.getMinutes().toString().padStart(2, '0');
-    var seconds = now.getSeconds().toString().padStart(2, '0');
-    $('#clock').text(hours + ':' + minutes + ':' + seconds);
-  }
-  // Her saniye saat bilgisini güncelle
-  setInterval(updateClock, 1000);
-  updateClock(); // Sayfa yüklendiğinde hemen güncelle
-});
-
-               </script>
                <div class="GmowDetailsClock">
-                  <div class="ComponentClock" id="clock"></div>
+                  <div class="ComponentClock">12:51:18</div>
                </div>
             </div>
          </div>

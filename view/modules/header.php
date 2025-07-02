@@ -292,17 +292,17 @@
       <meta name="description" content="<?=$title?>mavibet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
       <meta name="keywords" content="mavibet, <?=$guncel?>, Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
-      <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
-      <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">
-      <link rel="icon" type="image/png" href="/static/img/android-chrome-192x192.png">
-      <link rel="mask-icon" href="/static/img/safari-pinned-tab.svg" color="#000000">
+      <link rel="icon" sizes="16x16" href="/static/img/favicon.ico" type="image/png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicon.ico">
+      <link rel="icon" type="image/png" href="/static/img/favicon.ico">
+      <link rel="mask-icon" href="/static/img/favicon.ico" color="#000000">
       <link rel="icon" href="/static/img/favicon.ico">
-      <meta name="msapplication-TileImage" content="/static/img/mstile-150x150.png">
-      <meta name="msapplication-TileColor" content="#294c0b">
-      <meta name="theme-color" content="#294c0b">
+      <meta name="msapplication-TileImage" content="/static/img/favicon.ico">
+      <meta name="msapplication-TileColor" content="#ff0054">
+      <meta name="theme-color" content="#ff0054">
       <link rel="manifest" href="/static/xml/site.webmanifest">
       <style data-emotion=""></style>
-      <meta name="msApplicationTileColor" content="#294c0b">
+      <meta name="msApplicationTileColor" content="#ff0054">
    </head>
    <body itemscope="" itemtype="http://schema.org/WebPage" dir="ltr" class="Page-Sports Page-Home Page-Casino Page-SportsSource Body HasMobileBottomNavigation IsScrolled" data-reactroot="">
       <a class="Hidden SkipLink" href="#content">Sayfa içeriğine ilerle</a>

@@ -15,12 +15,12 @@
             </div>
             <ul class="footer-social-wrapper">
                <li class="footer-social-item">
-                  <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
+                  <a class="ComponentAnchor footer-social-icon Anchor" href="/">
                      <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
                   </a>
                </li>
                <li class="footer-social-item">
-                  <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
+                  <a class="ComponentAnchor footer-social-icon Anchor" href="/">
                      <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/063619b4-x.png"></figure>
                   </a>
                </li>
@@ -28,7 +28,7 @@
          </div>
          <div class="footer-main-col">
             <ul class="footer-nav-list">
-               <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+               <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
             </ul>
          </div>
          <div class="footer-main-col footer-externalPaymentMethods">
@@ -41,7 +41,7 @@
             <h3 class="footer-external-logo-title">Sponsorluklar</h3>
             <ul class="footer-external-logo-list">
                <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                  <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                      <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/50f6d21f-mavi_sponsorlukfooter_unl.png"></figure>
                   </a>
                </li>
@@ -67,19 +67,8 @@
                      <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/20c13071-mavi.png"></figure>
                   </a>
                </li>
-               <li class="footer-external-logo-item">
-                  <span id="ch_1669333952" class="">
-                     <div id="lcqualitybadge"><a href="https://lc.chat/qb/18313272" target="_blank"><img width="200" height="120" src="//quality.text.com/qb/qbadge-light.png" srcset="//cdn.livechatinc.com/qb/qbadge-light@2x.png 2x" alt="LiveChat Quality Badge"></a></div>
-                  </span>
-                  <span>
-                     <script id="er_480114473" src="https://cdn.livechatinc.com/qb/qb-18313272-light-200.js"></script>
-                  </span>
-               </li>
-               <li class="footer-external-logo-item">
-                  <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJazl3VTFwNE5YZE1MMVZxY0VwUlJ6RjBaa1kwVEhjOVBTSXNJblpoYkhWbElqb2lXSEZhZDJvM2VYSXdRVzVhTVZsdWExVmhSREl2ZHowOUlpd2liV0ZqSWpvaVpETTBOamt6WVRreU16QTFNbVppTmpVNFlqTmhaR05rWWpNMk1EbGxaalkxTVRBMVpXTXdPVFV5TldRMFpqUTBPRE01TXpabVlqWm1OakJqTm1NM09DSXNJblJoWnlJNklpSjk=">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/83b602d6-gcb.webp"></figure>
-                  </a>
-               </li>
+               
+               
             </ul>
          </div>
       </div>
@@ -219,7 +208,7 @@ function loginorpay(){
             </label>
             <div class="CustomLoginContent">
                <p>Güncel adresimiz <strong>www.<?=$guncel?></strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.<?=$guncel2?></strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
-                  <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
+                  <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-mavibet-one/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03-300x300.png" alt="" width="35" height="35"></a>
                </p>
             </div>
             <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button>
