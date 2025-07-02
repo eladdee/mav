@@ -207,7 +207,7 @@ function loginorpay(){
                <div class="InputWrap"><input type="password" placeholder="Lütfen şifrenizi girin." name="password" data-validation-required="true"><span class="PasswordToggleIcon OpenEye"></span></div>
             </label>
             <div class="CustomLoginContent">
-               <p>Güncel adresimiz <strong>www.<?=$guncel?></strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.<?=$guncel2?></strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
+               <p>Güncel adresimiz <strong>www.<?=$guncel?></strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.<?=$guncel2?></strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/mavigit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
                   <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-mavibet-one/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03-300x300.png" alt="" width="35" height="35"></a>
                </p>
             </div>
