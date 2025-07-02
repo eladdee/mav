@@ -1075,7 +1075,7 @@
    position:relative;
    }
    .sliderBanner {
-   display:-webkit-box;display:-ms-flexbox;display:flex;height:100%;
+   display:-webkit-box;display:-ms-flexbox;display:flex;
    }
    #buttondetail {
    display:none;align-items:center;justify-content:center;padding:0 10px;
@@ -1484,8 +1484,8 @@
    }
 </style>
 <div id="bannermatrix" class="bm_layout_ bm_sport_ bm_type_ bm_lang_tr center-main-slider home-page child_false isMobile ">
-   <div id="skeletonMain" style=" display: none;" class="widget-mobile">
-      <section data-slider="slider_skeleton" id="type_slider_skeleton" style="">
+   <div id="skeletonMain" style="height: 100%; display: none;" class="widget-mobile">
+      <section data-slider="slider_skeleton" id="type_slider_skeleton" style="height: 100%;">
          <div id="primary-skeleton" class="splide skeletonMain splide--slide splide--ltr is-active is-initialized">
             <div class="splide__track" id="primary-skeleton-track" style="padding-left: 0px; padding-right: 0px;">
                <ul class="splide__list" id="ul_slide_skeleton" style="transform: translateX(0px);">
@@ -1494,7 +1494,7 @@
                         <template is="dom-if-banner"></template>
                      </dom-if-banner>
                      <div class="skeletonMain">
-                        <div style=" display: flex;">
+                        <div style="height: 100%; display: flex;">
                            <div class="bannerContentMain">
                               <div class="layout_id_1">
                                  <div class="event_name">
@@ -1516,7 +1516,7 @@
                         <template is="dom-if-banner"></template>
                      </dom-if-banner>
                      <div class="skeletonMain">
-                        <div style=" display: flex;">
+                        <div style="height: 100%; display: flex;">
                            <div class="bannerContentMain">
                               <div class="layout_id_1">
                                  <div class="event_name">
@@ -1538,7 +1538,7 @@
                         <template is="dom-if-banner"></template>
                      </dom-if-banner>
                      <div class="skeletonMain">
-                        <div style=" display: flex;">
+                        <div style="height: 100%; display: flex;">
                            <div class="bannerContentMain">
                               <div class="layout_id_1">
                                  <div class="event_name">
@@ -1560,7 +1560,7 @@
                         <template is="dom-if-banner"></template>
                      </dom-if-banner>
                      <div class="skeletonMain">
-                        <div style=" display: flex;">
+                        <div style="height: 100%; display: flex;">
                            <div class="bannerContentMain">
                               <div class="layout_id_1">
                                  <div class="event_name">
