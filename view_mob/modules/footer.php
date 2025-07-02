@@ -4,32 +4,31 @@
                      <div class="footer-main-col">
                         <div class="footer-logo-wrapper">
                            <span class="SvgIcon MainIcon">
-                              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 411 118">
-                                 <image width="411" height="118" xlink:href="data:image/png;base64,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" transform="translate(-.5)" overflow="visible"></image>
+                              <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 1000.3 176.8">
+                                 <defs>
+                                    <style>.cls-1{fill:#fff}.cls-2{fill:#ff0054}</style>
+                                 </defs>
+                                 <path class="cls-1" d="M3.9 174.9V3.5h62.4l3 5.2 4.6-5.2h51.5s37.2-2.4 37.2 40.7v132.7h-41.3V49.1s.8-6.4-4.6-6.4h-13.2v134.2H61.7v-128s0-5.8-5.4-5.8h-13v133.8H3.9zM244.7 3.4H205c-34.4 0-34.4 39.3-34.4 39.3v134.2h38.8v-61.7h26.8v61.7h37.5V42.7c0-37.9-29-39.3-29-39.3zm-9.1 75.4h-26.4V50.4s-.1-10.6 12.9-10.6 13.5 10.6 13.5 10.6zM284.1 3.4v173.5H336s50.5 0 50.5-41.2V3.4h-42.7v124.3s-.9 10.9-8.5 10.9h-11.4V3.4zM399.4 3.4v171.1h39.9V3.4zm19.2 28.4a10.1 10.1 0 1110.1-10 10.1 10.1 0 01-10.1 10z"></path>
+                                 <path class="cls-2" d="M606.8 3.4H460v166.8h37.7s27.1-21.7 54.9-39.3h-44.7s-6.4.7-6.4-7.4V107s.4-6.3 9.2-6.3h69s14.1.3 16.2 6.7c0 0 11.9-6.4 20-9.6V17.6s1.8-14.2-9.1-14.2zm-27.1 69.5h-68.3s-9.9.7-9.9-9.2v-13s1.8-6.4 9.9-6.4h69.7s18.3 0 18.3 14.3c0 9.5-4.2 14.3-19.7 14.3zM539.2 170.2s46-35.7 76.8-49.5v42.6s1.7 6.9-5.7 6.9zM639.2 86.8V18.6s-1.4-15.2 17.2-15.2H818V34a555.2 555.2 0 00-60.5 12.8H693s-8.4-1.1-8.4 6.3V69s-30.3 11-45.4 17.8zM639.1 108.7v40.5s-2 21 19.4 21h150.4s9.1.5 9.1-7.2v-33.5H682.5V107s-.7-7 7.4-7h119.7s7 1.1 7-4.4V74.3h-96.8s-47.9 17.6-80.7 34.4zM840.4 3.4v26.9s52.9-12 161-8.8V3.4zM840.4 42.3v4.5h43.1v123.4h42.9V47.5h75V28.7s-77-2.8-161 13.6z"></path>
                               </svg>
                            </span>
                         </div>
                         <ul class="footer-social-wrapper">
                            <li class="footer-social-item">
-                              <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/jojobettelegramdestekbot">
-                                 <figure class="Figure ComponentPicture "><img alt="Telegram Destek" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/da123636-telegramfooter.png"></figure>
+                              <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
+                                 <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
                               </a>
                            </li>
                            <li class="footer-social-item">
-                              <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/jojo_sosyal">
-                                 <figure class="Figure ComponentPicture "><img alt="Telegram" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/61911974-telegram.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-social-item">
-                              <a class="ComponentAnchor footer-social-icon Anchor" href="https://x.com/jojo_haberler">
-                                 <figure class="Figure ComponentPicture "><img alt="Twitter" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/063619b4-x.png"></figure>
+                              <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
+                                 <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/063619b4-x.png"></figure>
                               </a>
                            </li>
                         </ul>
                      </div>
                      <div class="footer-main-col">
                         <ul class="footer-nav-list">
-                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
                         </ul>
                      </div>
                      <div class="footer-main-col footer-externalPaymentMethods">
@@ -42,28 +41,8 @@
                         <h3 class="footer-external-logo-title">Sponsorluklar</h3>
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
+                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                                 <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/50f6d21f-mavi_sponsorlukfooter_unl.png"></figure>
                               </a>
                            </li>
                         </ul>
@@ -74,298 +53,43 @@
                   <div class="footer-secondary-contained">
                      <div class="footer-secondary-col footer-secondary-col-1">
                         <span class="">
-                           <p style="text-align: center;"><strong>Destek</strong> support@jojobet.com | <strong>Partnerler</strong> partners@jojobet.com<br>
-                              <strong>Reklam</strong> press@jojobet.com
-                           </p>
-                           <p>&nbsp;</p>
-                           <p><a href="https://giris.jojobet.com/tr">Jojobet</a> bahis sektöründe ilkleri hedefleyen, önceliği kullanıcı memnuniyeti ve kaliteli hizmet sunmak olan bir bahis ve şans oyunları platformudur.</p>
-                           <p>Dünya çapında tüm spor dallarına birbirinden farklı benzersiz bahis seçenekleri ve piyasanın en yüksek oranlarıyla sizlere eğlenceli oyun oynama imkanı sunuyor ve yepyeni bir eğlence anlayışı getirmeyi misyon ediniyoruz.</p>
-                           <p>125’in üzerinde spor türü, canlı bahis bölümünde her ay 40.000’den fazla bahis seçeneğinin yanı sıra geniş çeşitliliğe sahip casinomuz ile sizlere gerçek kumarhane deneyimi sunuyoruz. Blackjack, rulet, baccarat ve piyasanın en çok ikramiye dağıtan slot oyunlarımızda şansınızı deneyerek büyük kazanca siz de ortak olabilirsiniz.</p>
-                           <p>Sürekli güncellenen promosyonlarımız ile üyelerimizin keyifli bir ortamda vakit geçirmelerini hedeflerken, deneyimli ekibimiz ile haftanın 7 günü ve 24 saat kesintisiz olarak hizmet vermekteyiz.</p>
-                           <p>Bir Coinbar N.V markası olan Jojobet, Curacao Lisans Denetleme Kurulu tarafından denetlenmekte olup, Antillephone 8048/JAZ Lisansı kapsamında faaliyet sunmaktadır.</p>
-                           <p>Lütfen Sorumlu Bahis Oynayınız. Jojobet™ 2025 | Tüm Hakları Saklıdır.</p>
+                           <p>Mavibet size en yüksek oranlarla bahis alma fırsatı ve kullanıcı odaklı hizmet kalitesi sunar.</p>
+                           <p>Mavibet spor bahisleri 125+ spor ve espor dalı ile 4000’den fazla bahis seçeneği ve 100.000’den fazla karşılaşma ile sizlere sürekli heyecan sunuyor. En yüksek oranlar, en zengin bahis çeşitliliği ve her an canlı karşılaşmalar ile kazanma kapılarını aralıyor.</p>
+                           <p>Mavibet casinosunda 10.000’den fazla slot oyunları ile şansınızı çevirirken, canlı casinoda canlı kurpiyeler eşliğinde blackjack, rulet, sic bo, dragon&amp;tiger, baccarat ve gösteri oyunları ile sürekli kazanabilirsiniz.</p>
+                           <p>Kuruluşumuz site üzerinde sunulan verilerin her zaman güncel ve doğru olmasına özen gösteriyor olsa da veriler sadece bilgi amaçlıdır ve kesinlik kaydetmemektedir. Maç sonuçları, maç zamanı gibi veriler doğru olmaması durumunda kuruluşumuz konu ile ilgili sorumluluk kabul etmemektedir. Lütfen kural ve şartlar kısmında bulunan bahis ve sonuçlandırma bölümünü dikkate alınız.</p>
+                           <p>© 2025 MAVİBET.COM TÜM HAKLARI SAKLIDIR. Mavibet Hollanda GCB Curaçao yasaları çerçevesinde verilen GCB (OGL/2024/920/0382) Lisansı kapsamında çalışır. Curaçao Hükümeti tarafından yetkilendirilmiş ve düzenlenmiştir. Mavibet® bir Coinbar N.V markasıdır. Heelsumstraat 51 Curacao, CW</p>
                         </span>
                      </div>
                      <div class=" footer-externalLicence">
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
                               <a target="_blank" class="ComponentAnchor  Anchor">
-                                 <figure class="Figure ComponentPicture "><img alt="18+" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/b61114a9-jojobet.png"></figure>
+                                 <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/20c13071-mavi.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              
+                              <span id="ch_1669333952" class="">
+                                 <div id="lcqualitybadge"><a href="https://lc.chat/qb/18313272" target="_blank"><img width="200" height="120" src="//quality.text.com/qb/qbadge-light.png" srcset="//cdn.livechatinc.com/qb/qbadge-light@2x.png 2x" alt="LiveChat Quality Badge"></a></div>
+                              </span>
+                              <span>
+                                 <script id="er_480114473" src="https://cdn.livechatinc.com/qb/qb-18313272-light-200.js"></script>
+                              </span>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbVoxY2poa1VGbEdTR1pXUldaWGVVeENURVJEWVhjOVBTSXNJblpoYkhWbElqb2ljekZYTHpFd2FGbDJZWEV5WmpOd2VHdGtOR04zUVQwOUlpd2liV0ZqSWpvaU5EbGhabUl6WWpobVlXSmlPRFEwTjJWa05qRXpOalZrTjJWaU9ESXpNbVV6TldOa1pqSXpZVFpsTWpBNVpEZzNNMlZsTWpneE1qY3lOREkxTkRVNE1pSXNJblJoWnlJNklpSjk=">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/cda60152-gcb-orange-seal.png"></figure>
-                              </a>
-                           </li>
-                           <li class="footer-external-logo-item">
-                              <a target="_blank" class="ComponentAnchor  Anchor" href="https://www.dmca.com/">
-                                 <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/05accf10-dmca_badge_grn_100w.png"></figure>
+                              <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJazl3VTFwNE5YZE1MMVZxY0VwUlJ6RjBaa1kwVEhjOVBTSXNJblpoYkhWbElqb2lXSEZhZDJvM2VYSXdRVzVhTVZsdWExVmhSREl2ZHowOUlpd2liV0ZqSWpvaVpETTBOamt6WVRreU16QTFNbVppTmpVNFlqTmhaR05rWWpNMk1EbGxaalkxTVRBMVpXTXdPVFV5TldRMFpqUTBPRE01TXpabVlqWm1OakJqTm1NM09DSXNJblJoWnlJNklpSjk=">
+                                 <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/83b602d6-gcb.webp"></figure>
                               </a>
                            </li>
                         </ul>
                      </div>
                   </div>
                </section>
-                <style><style>
-                                :host {
-                                    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
-                                }
-
-                                .NavigationWrapper {
-                                    background: #212529;
-                                    );width: 100%;
-                                    height: 20px
-                                }
-
-                                .NavigationPanel {
-                                    position: fixed;
-                                    bottom: -0;
-                                    left: 50%;
-                                    transform: translateX(-50%);
-                                    width: 100%;
-                                    height: 54px;
-                                    z-index: 30;
-                                    background: #212121;
-                                }
-
-                                .NavigationWindow {
-                                    display: flex;
-                                    flex-direction: column;
-                                    background: var(--emfe-w-color-white, #FFFFFF);
-                                    position: absolute;
-                                    bottom: 27px;
-                                    left: 0;
-                                    opacity: 0;
-                                    transform: translateY(100%);
-                                    border-radius: 5px 5px 0 0;
-                                    transition: 0.25s ease;
-                                    width: 100%;
-                                    background: #151516;
-                                }
-
-                                .NavigationWindow.NavigationWindowOpened {
-                                    opacity: 1;
-                                    padding-bottom: 40px;
-                                    transform: translateY(5px)
-                                }
-
-                                .NavigationWindow .ModalCloseBtn {
-                                    position: absolute;
-                                    top: 10px;
-                                    right: 10px;
-                                    width: 24px;
-                                    height: 24px;
-                                    border-radius: 100%;
-                                    color: var(--emfe-w-color-secondary, #FD2839);
-                                    background: rgba(255, 255, 255, 0.1);
-                                    cursor: pointer;
-                                    transition: all 150ms ease-in-out;
-                                    z-index: 1
-                                }
-
-                                .NavigationWindow .ModalCloseBtn svg {
-                                    width: 24px;
-                                    height: 24px;
-                                    margin: 50%;
-                                    transform: translate(-50%, -50%)
-                                }
-
-                                .NavigationWindow .ModalCloseBtn:hover {
-                                    background: rgba(255, 255, 255, 0.2)
-                                }
-
-                                .NavigationWindow .NavigationWindowTitle {
-                                    padding: 16px 10px;
-                                    margin: 0;
-                                    color: var(--emfe-w-color-contrast, #07072A);
-                                    font-size: 12px;
-                                    flex-grow: 0
-                                }
-
-                                .NavigationWindow .NavigationSecondaryWrapper {
-                                    display: flex;
-                                    flex-wrap: wrap;
-                                    padding: 0 10px;
-                                    flex-grow: 1;
-                                    overflow-y: auto;
-                                    -webkit-overflow-scrolling: touch
-                                }
-
-                                .NavigationPrimaryItemAnchor.NavItem0 {
-                                    grid-area: item0
-                                }
-
-                                .NavigationPrimaryItemAnchor.NavItem1 {
-                                    grid-area: item1
-                                }
-
-                                .NavigationPrimaryItemAnchor.NavItem2 {
-                                    grid-area: item2
-                                }
-
-                                .NavigationPrimaryItemAnchor.NavItem3 {
-                                    grid-area: item3
-                                }
-
-                                .NavigationPrimaryItemAnchor.NavItem4 {
-                                    grid-area: item4
-                                }
-
-                                .NavigationBar {
-                                    background: var(--emfe-w-color-white, #FFFFFF);
-                                    display: grid;
-                                    grid-auto-flow: column;
-                                    grid-template-columns: 1fr 1fr 20% 1fr 1fr;
-                                    grid-template-areas: "item0 item1 . item2 item3";
-                                    height: 52px;
-                                    border-radius: 5px;
-                                    position: relative;
-                                    background: #151516;
-                                }
-
-                                .NavigationBar.NavigationBarSimple {
-                                    grid-template-columns: repeat(5, 20%);
-                                    grid-template-areas: "item0 item1 item2 item3 item4"
-                                }
-
-                                .NavigationBar.NavigationBarOpened {
-                                    box-shadow: 0 0 11px rgba(0, 0, 0, 0.09)
-                                }
-
-                                .NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor {
-                                    display: flex;
-                                    flex-direction: column;
-                                    align-items: center;
-                                    justify-content: center;
-                                    text-decoration: none;
-                                    color: #fff;
-                                    font-size: 9px;
-                                    overflow: hidden;
-                                    white-space: nowrap
-                                }
-
-                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg {
-                                    width: 31px;
-                                }
-
-                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel {
-                                    margin: 0;
-                                    overflow: hidden;
-                                    white-space: nowrap;
-                                    text-overflow: ellipsis;
-                                    width: 100%;
-                                    text-align: center
-                                }
-
-                                .NavigationSecondaryItemAnchor {
-                                    width: 25%;
-                                    padding: 10px 0
-                                }
-
-                                .ActiveItem {
-                                    background-color: var(--emfe-w-color-primary, #D0046C)
-                                }
-
-                                .NavigationButton {
-                                    background: #151516;
-                                    border: none;
-                                    width: 20%;
-                                    height: 100%;
-                                    position: absolute;
-                                    top: 50%;
-                                    left: 50%;
-                                    transform: translate(-50%, -50%);
-                                    padding: 0
-                                }
-
-                                .NavigationButton .middleIcon {
-                                    width: 32px;
-                                    height: 32px
-                                }
-
-                                .NavigationButton:before {
-                                    border-left: 8px solid transparent;
-                                    border-right: 8px solid transparent;
-                                    border-top: 8px solid #F4F4F4;
-                                    content: "";
-                                    height: 0;
-                                    left: 50%;
-                                    opacity: 0;
-                                    position: absolute;
-                                    top: 0;
-                                    transform: translateX(-50%);
-                                    width: 0
-                                }
-
-                                .NavigationButton.NavigationButtonActive:before {
-                                    opacity: 1;
-                                    transition: 0.7s ease
-                                }
-
-                                body.HasNavigation>#chat-widget-container {
-                                    z-index: 12!important;
-                                    bottom: calc(6.5rem + env(safe-area-inset-bottom))!important;
-                                    max-height: calc(100% - 6.5rem - env(safe-area-inset-bottom))!important
-                                }
-
-                                .NavigationWrapper {
-                                    z-index: 13;
-                                    min-height: -webkit-fill-available;
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWrapper) {
-                                    height: 7.5rem
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationBar),.NavigationWrapper mobile-bottom-navigation::part(NavigationButton) {
-                                    background: #151516
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationPrimaryItemImgWrapper),.NavigationWrapper mobile-bottom-navigation::part(NavigationSecondaryItemImgWrapper) {
-                                    display: flex;
-                                    flex-direction: column;
-                                    justify-content: center
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationButton NavigationButtonActive):before {
-                                    content: none
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindow NavigationWindowOpened) {
-                                    border-bottom: none;
-                                    box-sizing: border-box
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindowTitle) {
-                                    display: none
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(ModalCloseBtn) {
-                                    width: 1.4rem;
-                                    height: 1.4rem;
-                                    background: none;
-                                    top: .5rem;
-                                    right: .5rem;
-                                    color: #f9c408
-                                }
-
-                                .NavigationWrapper mobile-bottom-navigation::part(w-6 h-6) {
-                                    width: 1.4rem
-                                }
-
-
-                     </style>
-                    
-                     
-                     <div class="NavigationWrapper" part="NavigationWrapper">
+             <style>:host{font-family:system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"}.NavigationWrapper{background:var(--emfe-w-color-footer-bg, #212529);width:100%;height:100px}.NavigationPanel{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);width:calc(100% - 30px);max-width:450px;height:50px;z-index:30}.NavigationWindow{display:flex;flex-direction:column;background:var(--emfe-w-color-white, #FFFFFF);position:absolute;bottom:30px;left:0;opacity:0;transform:translateY(100%);border-radius:5px 5px 0 0;transition:0.25s ease;width:100%;max-height:40vh}.NavigationWindow.NavigationWindowOpened{opacity:1;padding-bottom:40px;transform:translateY(5px)}.NavigationWindow .ModalCloseBtn{position:absolute;top:10px;right:10px;width:24px;height:24px;border-radius:100%;color:var(--emfe-w-color-secondary, #FD2839);background:rgba(255, 255, 255, 0.1);cursor:pointer;transition:all 150ms ease-in-out;z-index:1}.NavigationWindow .ModalCloseBtn svg{width:24px;height:24px;margin:50%;transform:translate(-50%, -50%)}.NavigationWindow .ModalCloseBtn:hover{background:rgba(255, 255, 255, 0.2)}.NavigationWindow .NavigationWindowTitle{padding:16px 10px;margin:0;color:var(--emfe-w-color-contrast, #07072A);font-size:12px;flex-grow:0}.NavigationWindow .NavigationSecondaryWrapper{display:flex;flex-wrap:wrap;padding:0 10px;flex-grow:1;overflow-y:auto;-webkit-overflow-scrolling:touch}.NavigationPrimaryItemAnchor.NavItem0{grid-area:item0}.NavigationPrimaryItemAnchor.NavItem1{grid-area:item1}.NavigationPrimaryItemAnchor.NavItem2{grid-area:item2}.NavigationPrimaryItemAnchor.NavItem3{grid-area:item3}.NavigationPrimaryItemAnchor.NavItem4{grid-area:item4}.NavigationBar{background:var(--emfe-w-color-white, #FFFFFF);display:grid;grid-auto-flow:column;grid-template-columns:1fr 1fr 20% 1fr 1fr;grid-template-areas:"item0 item1 . item2 item3";height:50px;border-radius:5px;position:relative}.NavigationBar.NavigationBarSimple{grid-template-columns:repeat(5, 20%);grid-template-areas:"item0 item1 item2 item3 item4"}.NavigationBar.NavigationBarOpened{box-shadow:0 0 11px rgba(0, 0, 0, 0.09)}.NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;text-decoration:none;color:var(--emfe-w-color-contrast, #07072A);font-size:9px;overflow:hidden;white-space:nowrap}.NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg{width:20px}.NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel{margin:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%;text-align:center}.NavigationSecondaryItemAnchor{width:25%;padding:10px 0}.ActiveItem{background-color:var(--emfe-w-color-primary, #D0046C)}.NavigationButton{background:var(--emfe-w-color-white, #FFFFFF);border:none;width:20%;height:100%;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);padding:0}.NavigationButton .middleIcon{width:32px;height:32px}.NavigationButton:before{border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #F4F4F4;content:"";height:0;left:50%;opacity:0;position:absolute;top:0;transform:translateX(-50%);width:0}.NavigationButton.NavigationButtonActive:before{opacity:1;transition:0.7s ease}</style>
+<div class="NavigationWrapper" part="NavigationWrapper">
    <div class="NavigationPanel" part="NavigationPanel">
       <div class="NavigationWindow " part="NavigationWindow ">
          <span class="ModalCloseBtn" part="ModalCloseBtn" role="button">
-            <slot name="close" part="ModalCloseBtnSlot" onclick="openbottommenu()">
+            <slot name="close" part="ModalCloseBtnSlot" onclick="openbottommenu()" >
                <svg class="w-6 h-6" part="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path part="ModalCloseBtnPath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                </svg>
@@ -374,75 +98,76 @@
          <h3 class="NavigationWindowTitle" part="NavigationWindowTitle">secondaryMenuTitle</h3>
          <div class="NavigationSecondaryWrapper" part="NavigationSecondaryWrapper">
             <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/955ce019-sweet-bonanza.svg" alt="Sweet Bonanza"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Sweet Bonanza</p>
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/6f0087d2-mavi-blackjack.svg" alt="Mavi Blackjack"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Mavi Blackjack</p>
             </div>
             <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/f054503a-gates-of-olympus-1.svg" alt="Gates"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/9e362761-gates-of-olympus-1000.svg" alt="Gates 1000"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates 1000</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/c1904bb6-aviator.svg" alt="Aviator"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Aviator</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/76990805-jojo-bonanza.svg" alt="Jojo Bonanza"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Jojo Bonanza</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/0ac66e63-gates-of-jojobet.svg" alt="Gates of Jojo"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates of Jojo</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fe1dd5c4-auto-roulette-live.svg" alt="Auto Roulette"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Auto Roulette</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/2677e8fd-immersive-roulette-live.svg" alt="Immersive"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Immersive</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/342b0fa6-jojo-turkce-rulet.svg" alt="Türkçe Rulet"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Türkçe Rulet</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/01b8cffd-poker2.svg" alt="Poker Klas"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Poker Klas</p>
-            </div>
-            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fb5a9ae4-xxxtreme-roulette-live.svg" alt="XXXTREME"></div>
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/33516a59-xxxtreme-roulette-live.svg" alt="XXXTREME"></div>
                <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">XXXTREME</p>
             </div>
             <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
-               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/dbb133e9-lightning-roulette.svg" alt="Lightning"></div>
-               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Lightning</p>
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/4d6f8599-jojo-turkce-rulet.svg" alt="Türkçe Rulet"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Türkçe Rulet</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/8dbb0a18-lightning-blackjack.svg" alt="Lightning BJ"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Lightning BJ</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/471986e6-crazy-time.svg" alt="Crazy Time"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Crazy Time</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/5e6b4ca9-gates-of-olympus-1000.svg" alt="Gates 1000"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates 1000</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/4809e635-sweet-bonanza.svg" alt="Sweet Bonanza"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Sweet Bonanza</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/9edc444d-aviator.svg" alt="Aviator"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Aviator</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/a6c14650-spaceman.svg" alt="Spaceman"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Spaceman</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/efab783c-sweet-bonanza-dice.svg" alt="Bonanza Dice"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Bonanza Dice</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/353d13b2-dog-house-dice-show.svg" alt="House Dice"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">House Dice</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-mavibet-one/2024/09/e6bb0484-demi-gods-iii.svg" alt="DemiGods3"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">DemiGods3</p>
             </div>
          </div>
       </div>
       <div class="NavigationBar  " part="NavigationBar  ">
-         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.top.location.href = 'https://direct.lc.chat/16139457/';">
-            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2023/02/4adec39e-canli-destek-jojo.svg" alt="Canlı Destek"></div>
+         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-mavibet-one/2023/02/a9b73507-canli-destek-mavi.svg" alt="Canlı Destek"></div>
             <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
          </div>
-         <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/casino'">
-            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/01efa9c7-jojo-casino-buton2.svg" alt="Casino"></div>
+         <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-mavibet-one/2024/09/fb7fa1c7-mavi-casino-buton2.svg" alt="Casino"></div>
             <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
          </div>
-         <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/livecasino'">
-            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/95cf08ed-canli-casino-sari.svg" alt="Canlı Casino"></div>
+         <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-mavibet-one/2024/09/4dea08fa-canli-casino-kirmizi.svg" alt="Canlı Casino"></div>
             <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
          </div>
-         <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = '/tournaments'">
-            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/10/d7323f32-jojo-ozl-tur-ham-ico-clr-2.svg" alt="35.000.000"></div>
-            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">35.000.000</p>
+         <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-mavibet-one/2024/08/ef243cf4-pokerklas-amblem-ico-mavi.svg" alt="Poker"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Poker</p>
          </div>
-         <button class="NavigationButton " onclick="openbottommenu()" type="button" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg" class="middleIcon" alt="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg"></span></button>
+         <button class="NavigationButton " onclick="openbottommenu()" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-mavibet-one/2024/09/0752baef-mavi-menu-buton2.svg" class="middleIcon" alt="/stateless-mavibet-one/2024/09/0752baef-mavi-menu-buton2.svg"></span></button>
       </div>
    </div>
+</div>
 </div>
                   <span id="ch_1114113586" class=""> </span>
                   
