@@ -1049,7 +1049,7 @@
    width:100%;position:relative;align-self:flex-end;
    }
    .bannerContent {
-   width:100%;padding-top:10px;
+   padding-top:10px;
    }
    .promotionBanner .bannerContent {
    padding-top:20px;padding-bottom:20px;
