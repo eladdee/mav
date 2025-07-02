@@ -80,9 +80,9 @@ body.Page-Casino.Page-Sports .SectionContent {
          <div class="RegisterFormImage">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="/stateless-jojobet/2021/12/1193f354-uye-ol-mobile-1024x140-1.jpg" media="(max-width: 1099px)">
-                  <source srcset="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
-                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-jojobet/2021/12/9c40270d-uye-ol-1.jpg">
+            <source srcset="/stateless-mavibet-one/2019/06/c9b18be3-mavi_hemenuyeol_portrait.jpg" media="(max-width: 1099px)">
+                  <source srcset="/stateless-mavibet-one/2019/06/c9b18be3-mavi_hemenuyeol_portrait.jpg">
+                  <img alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/c9b18be3-mavi_hemenuyeol_portrait.jpg">
                </picture>
             </figure>
          </div>
