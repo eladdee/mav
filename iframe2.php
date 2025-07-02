@@ -41,7 +41,7 @@
     // jQuery hazır olduğunda Splide slider'ı başlatıyoruz
     $(document).ready(function(){
       var splide = new Splide('#primary-slider', {
-        type       : 'loop',      // Sonsuz döngü
+        type       : '',      // Sonsuz döngü
         perPage    : 1,           // Aynı anda 1 slayt göster
         autoplay   : true,        // Otomatik oynatma
         interval   : 3000,        // 3000 ms (3 saniye) aralık
