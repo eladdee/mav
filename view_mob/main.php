@@ -1,7 +1,7 @@
 <section class="SectionContent ">
    <div class="SportsIframeWrapper">
       <div class="DropDownBackground"></div>
-      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="https://sports2.mavibet834.com/tr?basePath=https%3A%2F%2Fwww.mavibet834.com%2Ftr%2Fsports%2Fi" allow="autoplay;fullscreen;web-share" style="height: 3067px;"></iframe>
+      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="/iframe2.php" allow="autoplay;fullscreen;web-share" style="height: 3067px;"></iframe>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="mavibet-anasayfa$türkçe-casino" class="CasinoGames GamesList GamesListGrid MsnRow" data-subcategories-status="NOT_STARTED">
