@@ -1084,7 +1084,7 @@
    display:-webkit-box;display:-ms-flexbox;display:flex;
    }
    #type_slider, .banner-container, .banner {
-   height:100%;
+
    }
    #primary-slider {
    display:none;
