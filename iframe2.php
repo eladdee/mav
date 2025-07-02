@@ -22,7 +22,6 @@
   <style>
     /* Slider içindeki resimlerin genişliği tam olsun */
     .splide__slide img {
-      width: 100%;
       display: block;
     }
     /* Ok butonları için örnek stil */
