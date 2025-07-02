@@ -9,8 +9,8 @@
       <meta name="googlebot" content="noindex,indexifembedded">
       <base href="/">
       <title>Spor Bahisleri</title>
-      <link rel="stylesheet" href="/sports2-static/chunk.source~main.c33c8937056b8dd2d7bc.css">
-      <link rel="stylesheet" href="/sports2-static/chunk.vendors~main.075fd87c89cfe0d5692c.css">
+      <link rel="stylesheet" href="/sports2-static/chunk.sourcemain.c33c8937056b8dd2d7bc.css">
+      <link rel="stylesheet" href="/sports2-static/chunk.vendorsmain.075fd87c89cfe0d5692c.css">
       <style>.ABTestHide .ABTestVariant{opacity:0!important}</style>
        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,700&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
       <link rel="icon" href="data:;base64,=">
