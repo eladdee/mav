@@ -2991,7 +2991,7 @@
          </div>
       </section>
    </div>
-   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="https://www.mavibet834.com/api/bm/" page-tag="home-page" position-tag="center-bottom" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
-   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="https://www.mavibet834.com/api/bm/" page-tag="home-page" position-tag="center-popup" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
-   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="https://www.mavibet834.com/api/bm/" banner-type="streaming" sportbook-id="SportsIframe" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
+   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="/api/bm/" page-tag="home-page" position-tag="center-bottom" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
+   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="/api/bm/" page-tag="home-page" position-tag="center-popup" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
+   <bannermatrix-banner operator-id="2007" webapi-url="wss://sportsapi.mavibet834.com/v2" webapi-realm="www.mavibet.com" language="tr" demo="false" api-endpoint="/api/bm/" banner-type="streaming" sportbook-id="SportsIframe" logged-in="true" em-user-roles="[&quot;AcceptNoOddsChange&quot;]" translate="{}"></bannermatrix-banner>
 </section>

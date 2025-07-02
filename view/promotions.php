@@ -853,10 +853,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/519acb41-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/a0c68083-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/05/519acb41-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/a0c68083-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/05/1a3ae364-mavi_promopromo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -871,10 +871,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/52fbd09f-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2c3da64b-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/52fbd09f-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/2c3da64b-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/8247fcee-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -897,10 +897,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b10781fb-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/14fd991b-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/b10781fb-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/14fd991b-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/036a189b-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -920,10 +920,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/cdcc1135-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/99f229f6-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/cdcc1135-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/99f229f6-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/ff7548fe-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -943,9 +943,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/31a54f0b-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/088f6deb-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/2eed4237-mavi_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/02/31a54f0b-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/02/088f6deb-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/02/2eed4237-mavi_promopromo-desktop-copy.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1007,9 +1007,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/568aa293-promo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/2a2a5263-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/03/79231cc0-promo-desktop.png">
+                  <source srcset="/stateless-mavibet-one/2025/03/568aa293-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/03/2a2a5263-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/03/79231cc0-promo-desktop.png">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1030,9 +1030,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/ea2393e6-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/e7eef745-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/5ac94549-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/05/ea2393e6-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/e7eef745-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/5ac94549-promo-desktop.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1048,9 +1048,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/e70dd9a3-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/cc28d8a4-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/2e48968b-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/05/e70dd9a3-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/cc28d8a4-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/05/2e48968b-promo-desktop.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1066,10 +1066,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/189597d2-promo-mobile-16.07.37.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/6efceb49-promo-tablet-16.07.37.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/189597d2-promo-mobile-16.07.37.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/6efceb49-promo-tablet-16.07.37.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/b5c63f8e-promo-desktop-16.07.37.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1089,9 +1089,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/070c1a6b-mavi_kalamba-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/90dfd354-mavi_kalamba-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/eab892fd-mavi_kalamba-drops-n-wins-tr_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/070c1a6b-mavi_kalamba-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/90dfd354-mavi_kalamba-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/eab892fd-mavi_kalamba-drops-n-wins-tr_promopromo-desktop-copy.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1107,10 +1107,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8f9d888f-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/7f2c9539-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/8f9d888f-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/7f2c9539-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/ffd33b87-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1125,10 +1125,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ee33c8dc-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c0d5b18d-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/ee33c8dc-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/c0d5b18d-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/2de3f944-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1143,10 +1143,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/35442669-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/09294995-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/35442669-mavi_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/09294995-mavi_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/aa7b1ce0-mavi_promopromo-desktop-copy.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1161,9 +1161,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/e8475a5a-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/dc2f9368-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/92321e40-mavi_promopromo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/e8475a5a-mavi_promopromo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/dc2f9368-mavi_promopromo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/92321e40-mavi_promopromo-desktop.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1179,10 +1179,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/3271354b-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/6aa7477e-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/3271354b-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/6aa7477e-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/06/9225218c-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1197,9 +1197,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/d2214686-mavi_pragmatic-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/22e6931c-mavi_pragmatic-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/239c2eb9-mavi_pragmatic-drops-n-wins-tr_promopromo-desktop-copy.webp">
+                  <source srcset="/stateless-mavibet-one/2025/06/d2214686-mavi_pragmatic-drops-n-wins-tr_promopromo-mobile-copy.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/22e6931c-mavi_pragmatic-drops-n-wins-tr_promopromo-tablet-copy.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/06/239c2eb9-mavi_pragmatic-drops-n-wins-tr_promopromo-desktop-copy.webp">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1215,10 +1215,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/8f3bc1d5-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/9cce0417-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2025/01/8f3bc1d5-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2025/01/9cce0417-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/01/49593da9-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1233,10 +1233,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/aeaff46d-mavi_promopromo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/5f0a0782-mavi_promopromo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
+                  <source srcset="/stateless-mavibet-one/2024/02/aeaff46d-mavi_promopromo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2024/02/5f0a0782-mavi_promopromo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2024/02/8ea65985-mavi_promopromo-desktop.png">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1251,9 +1251,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/818d5833-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/7274f842-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/10/f1be2057-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2023/10/818d5833-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2023/10/7274f842-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2023/10/f1be2057-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1269,9 +1269,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/d728632e-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/6b4721da-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2023/07/66488ed0-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2023/07/d728632e-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2023/07/6b4721da-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2023/07/66488ed0-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1292,10 +1292,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/4272856e-promo-mobile.webp" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/59ac9cc5-promo-tablet.webp" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
+                  <source srcset="/stateless-mavibet-one/2024/12/4272856e-promo-mobile.webp" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2024/12/59ac9cc5-promo-tablet.webp" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2024/12/6fbcecb1-promo-desktop.webp">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1310,10 +1310,10 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/9d8caf73-promo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/4a5f4e00-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
-                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
+                  <source srcset="/stateless-mavibet-one/2024/12/9d8caf73-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2024/12/4a5f4e00-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
+                  <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage" src="/stateless-mavibet-one/2024/12/ab58f8e3-promo-desktop.png">
                </picture>
             </figure>
             <div class="PromotionItemContent">
@@ -1328,9 +1328,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/e9460374-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/15a0b3b9-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/604ffff7-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2021/11/e9460374-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2021/11/15a0b3b9-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2021/11/604ffff7-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1346,9 +1346,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/ecbb8823-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/633d24c3-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/493f4a7a-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2021/10/ecbb8823-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/633d24c3-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/493f4a7a-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1364,9 +1364,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/a73c2dd8-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/eca1f1cb-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/654da113-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2021/10/a73c2dd8-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/eca1f1cb-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/654da113-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1382,9 +1382,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/83f97547-promo-mobile.png" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/a141e424-promo-tablet.png" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/ae90823c-promo-desktop.png">
+                  <source srcset="/stateless-mavibet-one/2021/10/83f97547-promo-mobile.png" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/a141e424-promo-tablet.png" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/ae90823c-promo-desktop.png">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>
@@ -1400,9 +1400,9 @@
          <article class="PromotionItem">
             <figure class="Figure ComponentPicture ">
                <picture class="Picture">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/aa472a97-promo-mobile.jpg" media="(max-width: 435px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/99d8fbb5-promo-tablet.jpg" media="(max-width: 875px)">
-                  <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/10/c9cef926-promo-desktop.jpg">
+                  <source srcset="/stateless-mavibet-one/2021/10/aa472a97-promo-mobile.jpg" media="(max-width: 435px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/99d8fbb5-promo-tablet.jpg" media="(max-width: 875px)">
+                  <source srcset="/stateless-mavibet-one/2021/10/c9cef926-promo-desktop.jpg">
                   <img loading="lazy" alt="" width="2560" height="380" class="PictureImg LazyImage">
                </picture>
             </figure>

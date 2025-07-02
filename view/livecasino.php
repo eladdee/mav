@@ -11,10 +11,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/74884471-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/e32a1c88-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/d384a003-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2025/07/d384a003-mavi_casinocasino-desktop-copy.webp">
+                              <source srcset="/stateless-mavibet-one/2025/07/74884471-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/07/e32a1c88-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/07/d384a003-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-mavibet-one/2025/07/d384a003-mavi_casinocasino-desktop-copy.webp">
                            </picture>
                         </figure>
                      </a>
@@ -28,10 +28,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/29013f73-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/08e95a93-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/07/c8a97958-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/07/c8a97958-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/07/29013f73-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/07/08e95a93-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/07/c8a97958-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/07/c8a97958-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -45,10 +45,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c7e19576-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/da39122a-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/febc192d-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/febc192d-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/c7e19576-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/da39122a-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/febc192d-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/febc192d-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -62,10 +62,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/fd5e0aef-mavi_fugasobookofbillionaire_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/a35d6c62-mavi_fugasobookofbillionaire_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/02/28f3bb88-mavi_fugasobookofbillionaire_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/02/28f3bb88-mavi_fugasobookofbillionaire_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/02/fd5e0aef-mavi_fugasobookofbillionaire_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/02/a35d6c62-mavi_fugasobookofbillionaire_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/02/28f3bb88-mavi_fugasobookofbillionaire_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/02/28f3bb88-mavi_fugasobookofbillionaire_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -79,9 +79,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/bc0ce1f4-casino-mobile.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/ff9a22e0-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/3ec9a0b7-casino-desktop.webp">
+                              <source srcset="/stateless-mavibet-one/2025/06/bc0ce1f4-casino-mobile.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/ff9a22e0-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/3ec9a0b7-casino-desktop.webp">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -96,10 +96,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/92886dd9-casino-mobile.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/d14b0fa2-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/577913ec-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/01/577913ec-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/01/92886dd9-casino-mobile.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/01/d14b0fa2-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/01/577913ec-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/01/577913ec-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -113,10 +113,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/16cdc914-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/772f1a2a-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9f79e06e-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9f79e06e-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/16cdc914-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/772f1a2a-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/9f79e06e-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/9f79e06e-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -130,10 +130,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/08731805-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/472bf91e-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/f20b9c37-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/f20b9c37-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/08731805-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/472bf91e-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/f20b9c37-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/f20b9c37-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -147,10 +147,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/0e0e7ff3-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/12e654ef-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8f96e90d-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/8f96e90d-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/0e0e7ff3-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/12e654ef-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/8f96e90d-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/8f96e90d-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -164,10 +164,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/56459e53-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/448ff280-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/d58878f6-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/d58878f6-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/56459e53-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/448ff280-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/d58878f6-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/d58878f6-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -181,10 +181,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/400503e5-mavi_casinocasino-mobile-copy-2.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9860c8a5-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b568b966-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b568b966-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/400503e5-mavi_casinocasino-mobile-copy-2.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/9860c8a5-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/b568b966-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/b568b966-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -198,10 +198,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/51a801f4-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/64234892-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/41660dc4-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/41660dc4-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/51a801f4-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/64234892-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/41660dc4-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/41660dc4-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -215,10 +215,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/7dfff8ed-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/5a2c7d16-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c567bc0b-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c567bc0b-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/7dfff8ed-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/5a2c7d16-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/c567bc0b-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/c567bc0b-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -232,10 +232,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/04d4b1ce-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/bb1a4995-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/7e4dfd18-mavi_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/7e4dfd18-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/04d4b1ce-mavi_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/bb1a4995-mavi_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/7e4dfd18-mavi_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/7e4dfd18-mavi_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -249,10 +249,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/81df483f-mavi_kalamba-drops-n-wins-tr_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/4dc4db19-mavi_kalamba-drops-n-wins-tr_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c79522b4-mavi_kalamba-drops-n-wins-tr_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/c79522b4-mavi_kalamba-drops-n-wins-tr_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/81df483f-mavi_kalamba-drops-n-wins-tr_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/4dc4db19-mavi_kalamba-drops-n-wins-tr_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/c79522b4-mavi_kalamba-drops-n-wins-tr_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/c79522b4-mavi_kalamba-drops-n-wins-tr_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -266,10 +266,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b69fb710-mavi_pragmatic-drops-n-wins-tr_casinocasino-mobile-copy.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/52528c8b-mavi_pragmatic-drops-n-wins-tr_casinocasino-tablet-copy.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/745390ae-mavi_pragmatic-drops-n-wins-tr_casinocasino-desktop-copy.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/745390ae-mavi_pragmatic-drops-n-wins-tr_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/b69fb710-mavi_pragmatic-drops-n-wins-tr_casinocasino-mobile-copy.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/52528c8b-mavi_pragmatic-drops-n-wins-tr_casinocasino-tablet-copy.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/745390ae-mavi_pragmatic-drops-n-wins-tr_casinocasino-desktop-copy.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/745390ae-mavi_pragmatic-drops-n-wins-tr_casinocasino-desktop-copy.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -283,10 +283,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/bfbffa59-casino-mobile11.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/b6dbc2a4-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/12/35cc067a-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2024/12/35cc067a-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/bfbffa59-casino-mobile11.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2024/12/b6dbc2a4-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2024/12/35cc067a-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2024/12/35cc067a-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -300,10 +300,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/9d995cb9-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/15854afa-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5a5ee6a-mavi_casinocasino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/b5a5ee6a-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/9d995cb9-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/15854afa-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/b5a5ee6a-mavi_casinocasino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/b5a5ee6a-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -317,10 +317,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/caf55a9f-casino-mobile5.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/3abfd20e-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/42bad216-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/42bad216-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/caf55a9f-casino-mobile5.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/3abfd20e-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/42bad216-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/42bad216-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -334,10 +334,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/18aeecf1-casino-mobile13.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/227e9567-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/95639e12-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/95639e12-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/18aeecf1-casino-mobile13.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/227e9567-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/95639e12-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/95639e12-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -351,10 +351,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/5aceb86e-casino-mobile19.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/2ca79510-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/639637c3-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/639637c3-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/5aceb86e-casino-mobile19.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/2ca79510-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/639637c3-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/639637c3-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -368,10 +368,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/eee713ea-casino-mobile3.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/f951873a-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/06/68828d1e-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/06/68828d1e-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/06/eee713ea-casino-mobile3.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/f951873a-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/06/68828d1e-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/06/68828d1e-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -385,10 +385,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/5e36ccbf-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/f3c76951-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/dedb5ef4-mavi_casinocasino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/dedb5ef4-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/05/5e36ccbf-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/f3c76951-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/dedb5ef4-mavi_casinocasino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/05/dedb5ef4-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -402,10 +402,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/d15c539a-casino-mobile17.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/b98f6639-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/6df49ba1-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/6df49ba1-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/05/d15c539a-casino-mobile17.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/b98f6639-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/6df49ba1-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/05/6df49ba1-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -419,10 +419,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/c25ece4e-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/4eca06ea-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/83fea627-mavi_casinocasino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/83fea627-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/05/c25ece4e-mavi_casinocasino-mobile.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/4eca06ea-mavi_casinocasino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/83fea627-mavi_casinocasino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/05/83fea627-mavi_casinocasino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -436,10 +436,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/3f68ac8a-casino-mobile1.webp" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/d8aea749-casino-tablet.webp" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/05/d918c030-casino-desktop.webp">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/05/d918c030-casino-desktop.webp" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/05/3f68ac8a-casino-mobile1.webp" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/d8aea749-casino-tablet.webp" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/05/d918c030-casino-desktop.webp">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/05/d918c030-casino-desktop.webp" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -453,10 +453,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/48bf2a0a-mavi_casinocasino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/8504b4b1-mavi_casinocasino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2024/02/92e09886-mavi_casinocasino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2024/02/92e09886-mavi_casinocasino-desktop.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2024/02/48bf2a0a-mavi_casinocasino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2024/02/8504b4b1-mavi_casinocasino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2024/02/92e09886-mavi_casinocasino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2024/02/92e09886-mavi_casinocasino-desktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -470,10 +470,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/603c6e6e-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/53e9d626-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2025/01/b20525e9-casino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.mavibet834.com/stateless-mavibet-one/2025/01/b20525e9-casino-desktop.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-mavibet-one/2025/01/603c6e6e-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2025/01/53e9d626-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2025/01/b20525e9-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-mavibet-one/2025/01/b20525e9-casino-desktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
@@ -487,9 +487,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                              <source srcset="/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -775,7 +775,7 @@
       <p>MAVIBET 'in Canlı Casino Lobisinde size özel seçilmiş en iyi Canlı Casino oyunlarını bulacaksınız. Kurpiyerlerimiz masalarda sizi bekliyor!</p>
    </div>
    <div class="RandomGameWrapper">
-      <casino-play-random-game endpoint="https://mavibet834.com/api/nwa" language="tr" datasource="mavibet-livecasino" client-styling-url="https://www.mavibet834.com/static/css/widgets/play-random-game/style-1.0.875.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="https://www.mavibet834.com/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
+      <casino-play-random-game endpoint="https://mavibet834.com/api/nwa" language="tr" datasource="mavibet-livecasino" client-styling-url="/static/css/widgets/play-random-game/style-1.0.875.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="mavibet-livecasino$evolution" class="CasinoGames GamesList GamesListGrid MsnRow">

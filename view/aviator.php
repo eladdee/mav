@@ -292,7 +292,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.mavibet834.com/Loader/Start/2007/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.mavibet834.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1168" height="662.1732283464567"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.mavibet834.com/Loader/Start/2007/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="1168" height="662.1732283464567"></iframe></div>
                      </div>
                   </div>
                </li>

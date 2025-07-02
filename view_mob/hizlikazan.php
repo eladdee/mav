@@ -8,9 +8,9 @@
             <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                <figure class="Figure ComponentPicture ">
                   <picture class="Picture">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                     <source srcset="/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
                      <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                   </picture>
                </figure>
@@ -3940,7 +3940,7 @@
       </section>
    </div>
    <div class="GamificationFloatingProgress GamificationProgressCard LoyaltyCard">
-      <player-elevate-loyaltycard player-name="" endpoint="https://mavibet834.com/api/nwa" session="4ccadc69-6518-40be-9aee-2697c6b328fe" language="tr" client-styling-url="https://www.mavibet834.com/static/css/widgets/gamification-card-mobile/style-1.0.875.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
+      <player-elevate-loyaltycard player-name="" endpoint="https://mavibet834.com/api/nwa" session="4ccadc69-6518-40be-9aee-2697c6b328fe" language="tr" client-styling-url="/static/css/widgets/gamification-card-mobile/style-1.0.875.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
    </div>
    <div class="RecentWinnersWidget">
       <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>

@@ -8,10 +8,10 @@
             <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                <figure class="Figure ComponentPicture ">
                   <picture class="Picture">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
-                     <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                     <source srcset="/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                     <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
                   </picture>
                </figure>
             </a>

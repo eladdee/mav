@@ -8,9 +8,9 @@
             <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                <figure class="Figure ComponentPicture ">
                   <picture class="Picture">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                     <source srcset="/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
                      <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                   </picture>
                </figure>
@@ -869,7 +869,7 @@
       <p>MAVIBET'ün Casino Lobisinde slot ve masa oyunları da dahil olmak üzere tüm oyunları görüntüleyebilirsiniz.</p>
    </div>
    <div class="RandomGameWrapper">
-      <casino-play-random-game endpoint="https://mavibet834.com/api/nwa" language="tr" datasource="mavibet-casino" client-styling-url="https://www.mavibet834.com/static/css/widgets/play-random-game/style-1.0.875.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="https://www.mavibet834.com/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
+      <casino-play-random-game endpoint="https://mavibet834.com/api/nwa" language="tr" datasource="mavibet-casino" client-styling-url="/static/css/widgets/play-random-game/style-1.0.875.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="mavibet-casino$mavibet-turnuva" class="CasinoGames GamesList GamesListGrid MsnRow">

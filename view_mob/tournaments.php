@@ -8,9 +8,9 @@
             <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                <figure class="Figure ComponentPicture ">
                   <picture class="Picture">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
-                     <source srcset="https://www.mavibet834.com/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
+                     <source srcset="/stateless-mavibet-one/2021/11/9610b1e5-casino-mobile.png" media="(max-width:450px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a6e34f52-casino-tablet.png" media="(max-width:875px)">
+                     <source srcset="/stateless-mavibet-one/2021/11/a236d5f7-casino-desktop.png">
                      <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                   </picture>
                </figure>
@@ -867,7 +867,7 @@
    </div>
    <div class="TournamentsWrapper">
       <h2 class="TournamentsTitle">Turnuvalar</h2>
-      <casino-tournaments-controller classname="TournamentsWidget" loginevent="Login" registerevent="Register" translationurl="https://www.mavibet834.com/static/widgets/tournaments-controller/translations/data.json" endpoint="https://mavibet834.com/api/nwa" cmsendpoint="https://www.mavibet834.com/apijson/tr/tournaments" lang="tr" session="4ccadc69-6518-40be-9aee-2697c6b328fe" userid="22792142" currency="TRY" filters="All" numberoftournaments="6" showmorestep="6" starttimeafter="90"></casino-tournaments-controller>
+      <casino-tournaments-controller classname="TournamentsWidget" loginevent="Login" registerevent="Register" translationurl="/static/widgets/tournaments-controller/translations/data.json" endpoint="https://mavibet834.com/api/nwa" cmsendpoint="/apijson/tr/tournaments" lang="tr" session="4ccadc69-6518-40be-9aee-2697c6b328fe" userid="22792142" currency="TRY" filters="All" numberoftournaments="6" showmorestep="6" starttimeafter="90"></casino-tournaments-controller>
    </div>
    <div class="RecentWinnersWidget">
       <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>

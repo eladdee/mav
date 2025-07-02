@@ -326,7 +326,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.mavibet834.com/Loader/Start/2007/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.mavibet834.com/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1168" height="662.1732283464567"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.mavibet834.com/Loader/Start/2007/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1168" height="662.1732283464567"></iframe></div>
                      </div>
                   </div>
                </li>
