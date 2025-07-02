@@ -64,16 +64,229 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black">
       <link rel="search" type="application/opensearchdescription+xml" href="/static/xml/opensearch.xml" title="Search the Operator">
-      <style type="text/css">body,html{font-size:10px}#PageSpinner{position:fixed;margin:0;padding:0;display:flex;justify-content:center;align-items:center;width:100%;height:100vh;background:var(--PageSpinner-background);z-index:9999999;visibility:visible;opacity:1}#PageSpinner.Hide{visibility:hidden;opacity:0;transition:visibility .3s linear,opacity .3s linear}#PageSpinner .MainIcon{display:block;animation:slideMainIcon 2s infinite;width:150px}@keyframes slideMainIcon{from{transform:translateY(-15px)}50%{transform:translateY(5px)}to{transform:translateY(-15px)}}#PageSpinner .LoadingScreen{position:relative;width:250px;height:250px;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));animation:animateLoadingScreen 1.2s linear infinite}@keyframes animateLoadingScreen{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}#PageSpinner .LoadingScreen span{position:absolute;width:100%;height:100%;border-radius:50%;background:linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))}#PageSpinner .LoadingScreen span:nth-child(1){filter:blur(5px)}#PageSpinner .LoadingScreen span:nth-child(2){filter:blur(10px)}#PageSpinner .LoadingScreen span:nth-child(3){filter:blur(25px)}#PageSpinner .LoadingScreen span:nth-child(4){filter:blur(100px)}#PageSpinner .LoadingScreen:after{content:"";position:absolute;top:10px;left:10px;right:10px;bottom:10px;background:var(--Circle-background);border-radius:50%;opacity:.9}#PageSpinner .Logo{z-index:1;position:absolute}@keyframes animateCircleSpin{from{stroke-dashoffset:2512}to{stroke-dashoffset:0}}#PageSpinner .Circle{position:absolute;top:50%;left:50%;overflow:visible!important;transform:translate3d(-50%,-50%,0) rotate(-90deg);transform-origin:center}#PageSpinner .Circle circle{fill:#fff0;stroke-width:4;stroke-dasharray:1256}#PageSpinner .Circle circle:first-of-type{stroke:rgb(255 255 255 / .1)}#PageSpinner .Circle circle:nth-of-type(2){stroke:var(--Circle-color);animation:animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s}.MRIExpand{width:100%;max-height:calc(100vh - env(safe-area-inset-top) - 3rem);overflow:auto;position:fixed;top:0;padding-top:calc(env(safe-area-inset-top) + 3rem);background-color:#fff;z-index:9999}.MRIExpand.Hidden{display:none}.MRIExpand table{width:100%}.MRIExpand table tr:nth-child(odd){background-color:#dedede}.MRIExpand table tr:nth-child(even){background-color:#ccc}.MRIExpand table td,.MRIExpand table th{padding:.1rem .5rem;border-collapse:collapse;border:1px solid #b3b3b3}.MRIExpand .MRIClose{position:absolute;right:0;background:0 0;font-size:18px;border-radius:5rem;width:3rem;height:3rem;line-height:14px;top:calc(env(safe-area-inset-top) + 0px);padding:0}.RootContent{position:relative;min-height:100vh}.AppVersion{position:absolute;bottom:.5rem;left:50%;transform:translateX(-50%);font-size:10px;color:#fff;text-shadow:1px 1px 1px #000;z-index:5}.LoadingScreen .AppVersion{position:fixed}.BrowserUpgrade{display:block;padding:1rem;background:#fff;color:#000;border:1px solid #f33}</style>
-      <style type="text/css">:
-       :root {
+      <style type="text/css">
+            body,html {
+                font-size: 10px
+            }
+
+            #PageSpinner {
+                position: fixed;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 100%;
+                height: 100vh;
+                background: var(--PageSpinner-background);
+                z-index: 9999999;
+                visibility: visible;
+                opacity: 1
+            }
+
+            #PageSpinner.Hide {
+                visibility: hidden;
+                opacity: 0;
+                transition: visibility .3s linear,opacity .3s linear
+            }
+
+            #PageSpinner .MainIcon {
+                display: block;
+                animation: slideMainIcon 2s infinite;
+                width: 150px
+            }
+
+            @keyframes slideMainIcon {
+                from {
+                    transform: translateY(-15px)
+                }
+
+                50% {
+                    transform: translateY(5px)
+                }
+
+                to {
+                    transform: translateY(-15px)
+                }
+            }
+
+            #PageSpinner .LoadingScreen {
+                position: relative;
+                width: 250px;
+                height: 250px;
+                border-radius: 50%;
+                background: linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to));
+                animation: animateLoadingScreen 1.2s linear infinite
+            }
+
+            @keyframes animateLoadingScreen {
+                0% {
+                    transform: rotate(0deg)
+                }
+
+                100% {
+                    transform: rotate(360deg)
+                }
+            }
+
+            #PageSpinner .LoadingScreen span {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                border-radius: 50%;
+                background: linear-gradient(var(--LoadingScreen-color-from),var(--LoadingScreen-color-to))
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(1) {
+                filter: blur(5px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(2) {
+                filter: blur(10px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(3) {
+                filter: blur(25px)
+            }
+
+            #PageSpinner .LoadingScreen span:nth-child(4) {
+                filter: blur(100px)
+            }
+
+            #PageSpinner .LoadingScreen:after {
+                content: "";
+                position: absolute;
+                top: 10px;
+                left: 10px;
+                right: 10px;
+                bottom: 10px;
+                background: var(--Circle-background);
+                border-radius: 50%;
+                opacity: .9
+            }
+
+            #PageSpinner .Logo {
+                z-index: 1;
+                position: absolute
+            }
+
+            @keyframes animateCircleSpin {
+                from {
+                    stroke-dashoffset: 2512
+                }
+
+                to {
+                    stroke-dashoffset: 0
+                }
+            }
+
+            #PageSpinner .Circle {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                overflow: visible!important;
+                transform: translate3d(-50%,-50%,0) rotate(-90deg);
+                transform-origin: center
+            }
+
+            #PageSpinner .Circle circle {
+                fill: #fff0;
+                stroke-width: 4;
+                stroke-dasharray: 1256
+            }
+
+            #PageSpinner .Circle circle:first-of-type {
+                stroke: rgb(255 255 255 / .1)
+            }
+
+            #PageSpinner .Circle circle:nth-of-type(2) {
+                stroke: var(--Circle-color);
+                animation: animateCircleSpin infinite cubic-bezier(.39,.575,.565,1) 4s
+            }
+
+            .MRIExpand {
+                width: 100%;
+                max-height: calc(100vh - env(safe-area-inset-top) - 3rem);
+                overflow: auto;
+                position: fixed;
+                top: 0;
+                padding-top: calc(env(safe-area-inset-top) + 3rem);
+                background-color: #fff;
+                z-index: 9999
+            }
+
+            .MRIExpand.Hidden {
+                display: none
+            }
+
+            .MRIExpand table {
+                width: 100%
+            }
+
+            .MRIExpand table tr:nth-child(odd) {
+                background-color: #dedede
+            }
+
+            .MRIExpand table tr:nth-child(even) {
+                background-color: #ccc
+            }
+
+            .MRIExpand table td,.MRIExpand table th {
+                padding: .1rem .5rem;
+                border-collapse: collapse;
+                border: 1px solid #b3b3b3
+            }
+
+            .MRIExpand .MRIClose {
+                position: absolute;
+                right: 0;
+                background: 0 0;
+                font-size: 18px;
+                border-radius: 5rem;
+                width: 3rem;
+                height: 3rem;
+                line-height: 14px;
+                top: calc(env(safe-area-inset-top) + 0px);
+                padding: 0
+            }
+
+            .RootContent {
+                position: relative;
+                min-height: 100vh
+            }
+
+            .AppVersion {
+                position: absolute;
+                bottom: .5rem;
+                left: 50%;
+                transform: translateX(-50%);
+                font-size: 10px;
+                color: #fff;
+                text-shadow: 1px 1px 1px #000;
+                z-index: 5
+            }
+
+            .LoadingScreen .AppVersion {
+                position: fixed
+            }
+
+            .BrowserUpgrade {
+                display: block;
+                padding: 1rem;
+                background: #fff;
+                color: #000;
+                border: 1px solid #f33
+            }
+        </style>
+        <style type="text/css">
+            :root {
                 --PageSpinner-background: #1c1c1c;
                 --Circle-background: #1c1c1c;
                 --LoadingScreen-color-from: #ff0054;
                 --LoadingScreen-color-to: #FFF;
                 --Circle-color: rgba(255, 0, 84, 1);
             }
-      </style>
+        </style>
       
       <title><?=$title?></title>
       <meta name="description" content="<?=$title?>mavibet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
@@ -98,28 +311,7 @@
          <p class="BrowserUpgrade">Kullandığınız tarayıcının güncellemesi mevcuttur. Kullanıcızı güncellemek için lütfen <a href="http://browsehappy.com/">buraya</a> tıklayın ve sitemizdeki deneyiminizi geliştirin.</p>
          <![endif]-->
       </div>
-      <div id="PageSpinner" class="">
-         <div class="Logo">
-   <svg class="Circle" width="220" height="220">
-      <circle cx="110" cy="110" r="110"></circle>
-      <circle cx="110" cy="110" r="110"></circle>
-      <circle cx="110" cy="110" r="110"></circle>
-   </svg>
-   <span class="SvgIcon MainIcon">
-      <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 1000.3 176.8">
-         <defs>
-            <style>.cls-1{fill:#fff}.cls-2{fill:#ff0054}</style>
-         </defs>
-         <path class="cls-1" d="M3.9 174.9V3.5h62.4l3 5.2 4.6-5.2h51.5s37.2-2.4 37.2 40.7v132.7h-41.3V49.1s.8-6.4-4.6-6.4h-13.2v134.2H61.7v-128s0-5.8-5.4-5.8h-13v133.8H3.9zM244.7 3.4H205c-34.4 0-34.4 39.3-34.4 39.3v134.2h38.8v-61.7h26.8v61.7h37.5V42.7c0-37.9-29-39.3-29-39.3zm-9.1 75.4h-26.4V50.4s-.1-10.6 12.9-10.6 13.5 10.6 13.5 10.6zM284.1 3.4v173.5H336s50.5 0 50.5-41.2V3.4h-42.7v124.3s-.9 10.9-8.5 10.9h-11.4V3.4zM399.4 3.4v171.1h39.9V3.4zm19.2 28.4a10.1 10.1 0 1110.1-10 10.1 10.1 0 01-10.1 10z"></path>
-         <path class="cls-2" d="M606.8 3.4H460v166.8h37.7s27.1-21.7 54.9-39.3h-44.7s-6.4.7-6.4-7.4V107s.4-6.3 9.2-6.3h69s14.1.3 16.2 6.7c0 0 11.9-6.4 20-9.6V17.6s1.8-14.2-9.1-14.2zm-27.1 69.5h-68.3s-9.9.7-9.9-9.2v-13s1.8-6.4 9.9-6.4h69.7s18.3 0 18.3 14.3c0 9.5-4.2 14.3-19.7 14.3zM539.2 170.2s46-35.7 76.8-49.5v42.6s1.7 6.9-5.7 6.9zM639.2 86.8V18.6s-1.4-15.2 17.2-15.2H818V34a555.2 555.2 0 00-60.5 12.8H693s-8.4-1.1-8.4 6.3V69s-30.3 11-45.4 17.8zM639.1 108.7v40.5s-2 21 19.4 21h150.4s9.1.5 9.1-7.2v-33.5H682.5V107s-.7-7 7.4-7h119.7s7 1.1 7-4.4V74.3h-96.8s-47.9 17.6-80.7 34.4zM840.4 3.4v26.9s52.9-12 161-8.8V3.4zM840.4 42.3v4.5h43.1v123.4h42.9V47.5h75V28.7s-77-2.8-161 13.6z"></path>
-      </svg>
-   </span>
-</div>
-         <div class="LoadingScreen"><span></span><span></span><span></span><span></span></div>
-         <div class="">
-            <div class="AppVersion" onclick="openMri()">1.0.798</div>
-         </div>
-      </div>
+     <div id="PageSpinner" class=""><div class="Logo"><svg class="Circle" width="220" height="220"><circle cx="110" cy="110" r="110"></circle><circle cx="110" cy="110" r="110"></circle><circle cx="110" cy="110" r="110"></circle></svg><span class="SvgIcon MainIcon"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 1000.3 176.8"><defs><style>.cls-1{fill:#fff}.cls-2{fill:#ff0054}</style></defs><path class="cls-1" d="M3.9 174.9V3.5h62.4l3 5.2 4.6-5.2h51.5s37.2-2.4 37.2 40.7v132.7h-41.3V49.1s.8-6.4-4.6-6.4h-13.2v134.2H61.7v-128s0-5.8-5.4-5.8h-13v133.8H3.9zM244.7 3.4H205c-34.4 0-34.4 39.3-34.4 39.3v134.2h38.8v-61.7h26.8v61.7h37.5V42.7c0-37.9-29-39.3-29-39.3zm-9.1 75.4h-26.4V50.4s-.1-10.6 12.9-10.6 13.5 10.6 13.5 10.6zM284.1 3.4v173.5H336s50.5 0 50.5-41.2V3.4h-42.7v124.3s-.9 10.9-8.5 10.9h-11.4V3.4zM399.4 3.4v171.1h39.9V3.4zm19.2 28.4a10.1 10.1 0 1110.1-10 10.1 10.1 0 01-10.1 10z"></path><path class="cls-2" d="M606.8 3.4H460v166.8h37.7s27.1-21.7 54.9-39.3h-44.7s-6.4.7-6.4-7.4V107s.4-6.3 9.2-6.3h69s14.1.3 16.2 6.7c0 0 11.9-6.4 20-9.6V17.6s1.8-14.2-9.1-14.2zm-27.1 69.5h-68.3s-9.9.7-9.9-9.2v-13s1.8-6.4 9.9-6.4h69.7s18.3 0 18.3 14.3c0 9.5-4.2 14.3-19.7 14.3zM539.2 170.2s46-35.7 76.8-49.5v42.6s1.7 6.9-5.7 6.9zM639.2 86.8V18.6s-1.4-15.2 17.2-15.2H818V34a555.2 555.2 0 00-60.5 12.8H693s-8.4-1.1-8.4 6.3V69s-30.3 11-45.4 17.8zM639.1 108.7v40.5s-2 21 19.4 21h150.4s9.1.5 9.1-7.2v-33.5H682.5V107s-.7-7 7.4-7h119.7s7 1.1 7-4.4V74.3h-96.8s-47.9 17.6-80.7 34.4zM840.4 3.4v26.9s52.9-12 161-8.8V3.4zM840.4 42.3v4.5h43.1v123.4h42.9V47.5h75V28.7s-77-2.8-161 13.6z"></path></svg></span></div><div class="LoadingScreen"><span></span><span></span><span></span><span></span></div><div class=""><div class="AppVersion" onclick="openMri()">1.0.875</div></div></div>
       <div id="AppContainer" class="AppContainer">
          <div class="RootContent BaseSwipe">
             <header class="SectionHeader" id="HeaderElement">

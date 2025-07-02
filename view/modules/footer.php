@@ -16,12 +16,12 @@
             <ul class="footer-social-wrapper">
                <li class="footer-social-item">
                   <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
                   </a>
                </li>
                <li class="footer-social-item">
                   <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mavi_sosyal">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2019/06/063619b4-x.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/063619b4-x.png"></figure>
                   </a>
                </li>
             </ul>
@@ -41,8 +41,8 @@
             <h3 class="footer-external-logo-title">Sponsorluklar</h3>
             <ul class="footer-external-logo-list">
                <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor" href="https://www.mavibet834.com/tr/sponsorluklar">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2019/06/50f6d21f-mavi_sponsorlukfooter_unl.png"></figure>
+                  <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/50f6d21f-mavi_sponsorlukfooter_unl.png"></figure>
                   </a>
                </li>
             </ul>
@@ -64,7 +64,7 @@
             <ul class="footer-external-logo-list">
                <li class="footer-external-logo-item">
                   <a target="_blank" class="ComponentAnchor  Anchor">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2019/06/20c13071-mavi.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/20c13071-mavi.png"></figure>
                   </a>
                </li>
                <li class="footer-external-logo-item">
@@ -77,7 +77,7 @@
                </li>
                <li class="footer-external-logo-item">
                   <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJazl3VTFwNE5YZE1MMVZxY0VwUlJ6RjBaa1kwVEhjOVBTSXNJblpoYkhWbElqb2lXSEZhZDJvM2VYSXdRVzVhTVZsdWExVmhSREl2ZHowOUlpd2liV0ZqSWpvaVpETTBOamt6WVRreU16QTFNbVppTmpVNFlqTmhaR05rWWpNMk1EbGxaalkxTVRBMVpXTXdPVFV5TldRMFpqUTBPRE01TXpabVlqWm1OakJqTm1NM09DSXNJblJoWnlJNklpSjk=">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.mavibet834.com/stateless-mavibet-one/2019/06/83b602d6-gcb.webp"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-mavibet-one/2019/06/83b602d6-gcb.webp"></figure>
                   </a>
                </li>
             </ul>
